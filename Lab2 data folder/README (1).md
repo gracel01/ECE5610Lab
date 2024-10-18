@@ -59,9 +59,9 @@ scope_18:
 - Ch3: Capacitor Current Voltage (CS4 and COM)
 - Ch4: Output Current Voltage (CS5 and COM)
 **Reset to starting conditions with increased time view on the oscilloscope
-  - output ripple voltage  |  output current CS5  |   rCAPACITOR CURRENT CS4
+  - output ripple voltage  |  output current CS5  |  capacior current CS4
 :-------------------------:|:-------------------------:|:-------------------------:
-![](path/filename1.bmp) |  ![](path/filename2.bmp) | ![](path/filename3.bmp)
+![](Lab2 data folder/scope_13.bmp) |  ![](Lab2 data folder/scope_14.bmp) | ![](Lab2 data folder/scope_15.bmp)
 
 scope_19:
 - Ch1: PWM Signal  (For Adjusting Duty Ratio/Freq) -> 50% @ 100kHz
