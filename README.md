@@ -13,7 +13,7 @@ scope_12:
 
  PWM Signal |
 :-------------------------:|
-![](Lab2data/scope_12.bmp) |
+![](Lab2Data/scope_12.bmp) |
 
 section 2.4.1: Varying Duty Ratio
 ----------------------------------------------------------
