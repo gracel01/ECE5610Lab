@@ -11,7 +11,7 @@ scope_12:
 - Switching Frequency = 100 kHz
 - External Input Voltage Vd = 15V (Power Supply)
 
-- PWM Signal |
+ PWM Signal |
 :-------------------------:|
 ![](Lab2data/scope_12.bmp) |
 
