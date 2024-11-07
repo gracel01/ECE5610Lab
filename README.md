@@ -161,6 +161,10 @@ scope_30:
 **Unsure of what happened for clipped average to occur, had to replace lower left fuses
   due to being blown open from moving scope probes.
 
+ Varying Duty Ratio/Switching Freq -> 50% @ 100kHz (possibly to high of current -> resistance got turned way down)|
+:-------------------------:|
+![](Lab2Data/scope_30.bmp) |   
+
 scope_31:
 - Ch1: PWM Signal  (For Adjusting Duty Ratio/Freq) -> 50% @ 100kHz
 - Ch2: Voltage Across Diode - Top
@@ -168,6 +172,10 @@ scope_31:
 - Ch4: Output Current Voltage (CS5 and COM)
 **Unsure of what happened for clipped average to occur, had to replace lower left fuses
   due to being blown open from moving scope probes.
+
+ Varying Duty Ratio/Switching Freq -> 50% @ 100kHz (possibly to high of current -> resistance got turned way down)|
+:-------------------------:|
+![](Lab2Data/scope_31.bmp) |  
 
 scope_32:
 - Ch1: PWM Signal  (For Adjusting Duty Ratio/Freq) -> 50% @ 100kHz
@@ -177,7 +185,9 @@ scope_32:
 **Unsure of what happened for clipped average to occur, had to replace lower left fuses
   due to being blown open from moving scope probes.
 
-
+ Varying Duty Ratio/Switching Freq -> 50% @ 100kHz (possibly to high of current -> resistance got turned way down)|
+:-------------------------:|
+![](Lab2Data/scope_32.bmp) |  
 
 section 2.4.4: Determining Efficiency
 ----------------------------------------------------------
@@ -188,12 +198,10 @@ scope_20:
 - Ch4: Output Current Voltage - RMS (CS5 and COM)
 **Input Voltage = 15V from external power supply
 
-scope_20:
-- Ch1: PWM Signal  (For Adjusting Duty Ratio/Freq) -> 50% @ 60kHz
-- Ch2: Output Voltage - RMS (Across V2+ and COM on right side of board)
-- Ch3: Capacitor Current Voltage (CS4 and COM)
-- Ch4: Output Current Voltage - RMS (CS5 and COM)
-**Input Voltage = 15V from external power supply
+ Determinig Efficiency|
+:-------------------------:|
+![](Lab2Data/scope_20.bmp) |  
+
 
 
 
