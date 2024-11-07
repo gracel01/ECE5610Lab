@@ -113,9 +113,9 @@ scope_58:
 - Ch1: PWM reference measurement of Power Pole Board @ 60kHz
 - Ch2: Output voltage measured at load resistor
 
- PWM Reference Signal of Power Pole Board / Varying the Switching Frequency -> Duty 50% @ 60kHz |
+ PWM Reference Signal of Power Pole Board / Varying the Switching Frequency / Load Resistance = 20 Ω -> Duty 50% @ 60kHz |
 :-------------------------:|
-![](4Data/scope_57.bmp) |
+![](4Data/scope_.bmp) |
 
 **Used recorded measured values of 50% duty from section 4.4.1 for calculations of 100kHz
 
