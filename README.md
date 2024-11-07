@@ -22,7 +22,7 @@ scope_13:
 - Ch1: PWM Signal Measurement (For Adjusting Duty Ratio/Freq) -> 50% @ 100kHz
 - Ch2: Output Voltage Measurement (Across V2+ and COM on right side of board)
 
- Average Output Voltage at 50% duty |
+ Varying Dury Ratio at 50% duty |
 :-------------------------:|
 ![](Lab2Data/scope_13.bmp) |
 
@@ -49,7 +49,7 @@ scope_15:
 - Ch3: Capacitor Current Voltage (CS4 and COM)
 - Ch4: Output Current Voltage (CS5 and COM)
 
- Varying Duty Ratio/Swithc Freq -> 50% @ 80kHz|
+ Varying Duty Ratio/Switching Freq -> 50% @ 80kHz|
 :-------------------------:|
 ![](Lab2Data/scope_15.bmp) |
 
@@ -93,6 +93,10 @@ scope_19:
 - Ch3: Capacitor Current Voltage (CS4 and COM)
 - Ch4: Output Current Voltage (CS5 and COM)
 **Increased load impedance by low amount
+
+Varying Duty Ratio/Switching Freq -> 50% @ 100kHz w/ Increased Load Resistance|
+:-------------------------:|
+![](Lab2Data/scope_19.bmp) |  
 
 scope_22:
 - Ch1: PWM Signal  (For Adjusting Duty Ratio/Freq) -> 50% @ 100kHz
