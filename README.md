@@ -103,6 +103,10 @@ scope_22:
 - Ch3: Capacitor Current Voltage (CS4 and COM)
 - Ch4: Output Current Voltage (CS5 and COM)
 **Increased load impedance more
+  
+  Varying Duty Ratio/Switching Freq -> 50% @ 100kHz w/ further increased Load Resistance|
+:-------------------------:|
+![](Lab2Data/scope_22.bmp) |  
 
 scope_23:
 - Ch1: PWM Signal  (For Adjusting Duty Ratio/Freq) -> 50% @ 100kHz
@@ -111,12 +115,20 @@ scope_23:
 - Ch4: Output Current Voltage (CS5 and COM)
 **Increased load impedance to Discontinuous Mode
 
+   Varying Duty Ratio/Switching Freq -> 50% @ 100kHz w/ increased Load Resistance to DCM|
+:-------------------------:|
+![](Lab2Data/scope_23.bmp) |  
+
 scope_24:
 - Ch1: PWM Signal  (For Adjusting Duty Ratio/Freq) -> 50% @ 100kHz
 - Ch2: Output Voltage and Ripple (Across V2+ and COM on right side of board)
 - Ch3: Capacitor Current Voltage (CS4 and COM)
 - Ch4: Output Current Voltage (CS5 and COM)
 **Increased load impedance higher
+  
+ Varying Duty Ratio/Switching Freq -> 50% @ 100kHz w/ further increased Load Resistance|
+:-------------------------:|
+![](Lab2Data/scope_24.bmp) |  
 
 scope_25:
 - Ch1: PWM Signal  (For Adjusting Duty Ratio/Freq) -> 50% @ 100kHz
@@ -125,6 +137,10 @@ scope_25:
 - Ch4: Output Current Voltage (CS5 and COM)
 **Increased load impedance higher
 
+   Varying Duty Ratio/Switching Freq -> 50% @ 100kHz w/ even further increased Load Resistance|
+:-------------------------:|
+![](Lab2Data/scope_25.bmp) |  
+
 scope_29:
 - Ch1: PWM Signal  (For Adjusting Duty Ratio/Freq) -> 50% @ 100kHz
 - Ch2: Voltage Across MOSFET - Top
@@ -132,6 +148,10 @@ scope_29:
 - Ch4: Output Current Voltage (CS5 and COM)
 **Unsure of what happened for clipped average to occur, had to replace lower left fuses
   due to being blown open from moving scope probes.
+
+   Varying Duty Ratio/Switching Freq -> 50% @ 100kHz (possibly to high of current -> (resistance got turned way down)|
+:-------------------------:|
+![](Lab2Data/scope_2(.bmp) |  
 
 scope_30:
 - Ch1: PWM Signal  (For Adjusting Duty Ratio/Freq) -> 50% @ 100kHz
