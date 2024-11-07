@@ -82,10 +82,9 @@ scope_18:
 - Ch4: Output Current Voltage (CS5 and COM)
 **Reset to starting conditions with increased time view on the oscilloscope
 
-  Varying Duty Ratio/Switching Freq -> 50% @ 100kHz|
+ Varying Duty Ratio/Switching Freq -> 50% @ 100kHz|
 :-------------------------:|
 ![](Lab2Data/scope_18.bmp) |  
-
 
 scope_19:
 - Ch1: PWM Signal  (For Adjusting Duty Ratio/Freq) -> 50% @ 100kHz
@@ -94,7 +93,7 @@ scope_19:
 - Ch4: Output Current Voltage (CS5 and COM)
 **Increased load impedance by low amount
 
-Varying Duty Ratio/Switching Freq -> 50% @ 100kHz w/ Increased Load Resistance|
+ Varying Duty Ratio/Switching Freq -> 50% @ 100kHz w/ small increased Load Resistance|
 :-------------------------:|
 ![](Lab2Data/scope_19.bmp) |  
 
