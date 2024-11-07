@@ -22,6 +22,10 @@ scope_13:
 - Ch1: PWM Signal Measurement (For Adjusting Duty Ratio/Freq) -> 50% @ 100kHz
 - Ch2: Output Voltage Measurement (Across V2+ and COM on right side of board)
 
+ Average Output Voltage at 50% duty |
+:-------------------------:|
+![](Lab2Data/scope_13.bmp) |
+
 -Performed section without capturing each waveform for each duty ratio: measurements
  were recorded in Lab Notebook
 
@@ -34,6 +38,10 @@ scope_14:
 - Ch2: Output Voltage and Ripple (Across V2+ and COM on right side of board)
 - Ch3: Capacitor Current Voltage (CS4 and COM)
 - Ch4: Output Current Voltage (CS5 and COM)
+
+ PWM Signal (For Adjusting Duty Ratio/Freq |
+:-------------------------:|
+![](Lab2Data/scope_14.bmp) |
 
 scope_15:
 - Ch1: PWM Signal  (For Adjusting Duty Ratio/Freq) -> 50% @ 80kHz
