@@ -1,3 +1,6 @@
+#Laura Parke
+#Ryan MA 
+#ECE 5610-002
 Lab 4 Items:
 - Waveform Captures
 Boost Converter Analysis
