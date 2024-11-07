@@ -1,4 +1,5 @@
 # ECE5610Lab
+# Ryan Ma
 # Laura Parke
 Lab 2 Items:
 - Waveform captures
