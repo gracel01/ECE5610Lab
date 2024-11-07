@@ -81,7 +81,8 @@ scope_18:
 - Ch3: Capacitor Current Voltage (CS4 and COM)
 - Ch4: Output Current Voltage (CS5 and COM)
 **Reset to starting conditions with increased time view on the oscilloscope
-  Ch1: PWM Signal   Ch2: Output ripple voltage   Ch3: Output current CS5   Ch4: rCAPACITOR CURRENT CS4
+
+ Ch1: PWM Signal   Ch2: Output ripple voltage   Ch3: Output current CS5   Ch4: rCAPACITOR CURRENT CS4
 :-------------------------:|
 ![](Lab2Data/scope18.bmp) |  
 
