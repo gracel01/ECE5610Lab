@@ -39,7 +39,7 @@ scope_14:
 - Ch3: Capacitor Current Voltage (CS4 and COM)
 - Ch4: Output Current Voltage (CS5 and COM)
 
- PWM Signal (For Adjusting Duty Ratio/Freq |
+ PWM Signal (For Adjusting Duty Ratio/Freq) -> 50% @ 100kHz|
 :-------------------------:|
 ![](Lab2Data/scope_14.bmp) |
 
@@ -49,11 +49,19 @@ scope_15:
 - Ch3: Capacitor Current Voltage (CS4 and COM)
 - Ch4: Output Current Voltage (CS5 and COM)
 
+ PWM Signal (For Adjusting Duty Ratio/Freq) -> 50% @ 80kHz|
+:-------------------------:|
+![](Lab2Data/scope_15.bmp) |
+
 scope_16:
 - Ch1: PWM Signal  (For Adjusting Duty Ratio/Freq) -> 50% @ 60kHz
 - Ch2: Output Voltage and Ripple (Across V2+ and COM on right side of board)
 - Ch3: Capacitor Current Voltage (CS4 and COM)
 - Ch4: Output Current Voltage (CS5 and COM)
+
+ PWM Signal (For Adjusting Duty Ratio/Freq) -> 50% @ 60kHz|
+:-------------------------:|
+![](Lab2Data/scope_16.bmp) |
 
 scope_17:
 - Ch1: PWM Signal  (For Adjusting Duty Ratio/Freq) -> 50% @ 40kHz
@@ -61,7 +69,9 @@ scope_17:
 - Ch3: Capacitor Current Voltage (CS4 and COM)
 - Ch4: Output Current Voltage (CS5 and COM)
 
-
+ PWM Signal (For Adjusting Duty Ratio/Freq) -> 50% @ 40kHz|
+:-------------------------:|
+![](Lab2Data/scope_17.bmp) |
 
 section 2.4.3: Varying the Load
 ----------------------------------------------------------
@@ -71,9 +81,9 @@ scope_18:
 - Ch3: Capacitor Current Voltage (CS4 and COM)
 - Ch4: Output Current Voltage (CS5 and COM)
 **Reset to starting conditions with increased time view on the oscilloscope
-- output ripple voltage  |  output current CS5  |   rCAPACITOR CURRENT CS4
-:-------------------------:|:-------------------------:|:-------------------------:
-![](path/filename1.bmp) |  ![](path/filename2.bmp) | ![](path/filename3.bmp)
+  Ch1: PWM Signal   Ch2: Output ripple voltage   Ch3: Output current CS5   Ch4: rCAPACITOR CURRENT CS4
+:-------------------------:|
+![](Lab2Data/scope18.bmp) |  
 
 
 scope_19:
