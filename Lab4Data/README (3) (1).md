@@ -109,13 +109,13 @@ section 4.4.3: Determining Efficiency
 - Switching Frequency = 100 kHz
 - External Input Voltage Vd = 10V (DC Power Supply)
 
-scope_58:
+scope_57:
 - Ch1: PWM reference measurement of Power Pole Board @ 60kHz
 - Ch2: Output voltage measured at load resistor
 
  PWM Reference Signal of Power Pole Board / Varying the Switching Frequency / Load Resistance = 20 Ω -> Duty 50% @ 60kHz |
 :-------------------------:|
-![](4Data/scope_.bmp) |
+![](4Data/scope_57.bmp) |
 
 **Used recorded measured values of 50% duty from section 4.4.1 for calculations of 100kHz
 
