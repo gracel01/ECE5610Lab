@@ -15,6 +15,9 @@ section 4.4.1: Varying Duty Ratio
 scope_50:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 10% @ 100kHz
 - Ch2: Ouput Voltage measure across load resistor
+   PWM Reference Signal of Power Pole Board -> Duty 10% @ 100kHz |
+:-------------------------:|
+![](Lab4Data/scope_50.bmp) |
 
 scope_51:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 20% @ 100kHz
