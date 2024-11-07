@@ -104,7 +104,7 @@ scope_22:
 - Ch4: Output Current Voltage (CS5 and COM)
 **Increased load impedance more
   
-  Varying Duty Ratio/Switching Freq -> 50% @ 100kHz w/ further increased Load Resistance|
+ Varying Duty Ratio/Switching Freq -> 50% @ 100kHz w/ further increased Load Resistance|
 :-------------------------:|
 ![](Lab2Data/scope_22.bmp) |  
 
@@ -115,7 +115,7 @@ scope_23:
 - Ch4: Output Current Voltage (CS5 and COM)
 **Increased load impedance to Discontinuous Mode
 
-   Varying Duty Ratio/Switching Freq -> 50% @ 100kHz w/ increased Load Resistance to DCM|
+ Varying Duty Ratio/Switching Freq -> 50% @ 100kHz w/ increased Load Resistance to DCM|
 :-------------------------:|
 ![](Lab2Data/scope_23.bmp) |  
 
@@ -137,7 +137,7 @@ scope_25:
 - Ch4: Output Current Voltage (CS5 and COM)
 **Increased load impedance higher
 
-   Varying Duty Ratio/Switching Freq -> 50% @ 100kHz w/ even further increased Load Resistance|
+ Varying Duty Ratio/Switching Freq -> 50% @ 100kHz w/ even further increased Load Resistance|
 :-------------------------:|
 ![](Lab2Data/scope_25.bmp) |  
 
@@ -149,9 +149,9 @@ scope_29:
 **Unsure of what happened for clipped average to occur, had to replace lower left fuses
   due to being blown open from moving scope probes.
 
-   Varying Duty Ratio/Switching Freq -> 50% @ 100kHz (possibly to high of current -> (resistance got turned way down)|
+ Varying Duty Ratio/Switching Freq -> 50% @ 100kHz (possibly to high of current -> resistance got turned way down)|
 :-------------------------:|
-![](Lab2Data/scope_2(.bmp) |  
+![](Lab2Data/scope_29.bmp) |  
 
 scope_30:
 - Ch1: PWM Signal  (For Adjusting Duty Ratio/Freq) -> 50% @ 100kHz
