@@ -1,4 +1,4 @@
-# Lab-5: Buck-Boost Converter
+Lab-5: Buck-Boost Converter
 
 Lab 5 Items:
 - Waveform Captures
