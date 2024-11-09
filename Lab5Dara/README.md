@@ -81,7 +81,7 @@ scope_72:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 60% @ 100kHz
 - Ch2: Inductor Voltage measure across CS5 and COM
 
- PWM Reference Signal of Power Pole Board -> Duty 60% @ 100kHz Resistance = 15 Ω |
+ PWM Reference Signal of Power Pole Board -> Duty 60% @ 100kHz Resistance = 15 Ω Inductor Voltage measure across CS5 and COM |
 :-------------------------:|
 ![](5Data/scope_72.bmp) |
 
@@ -89,27 +89,41 @@ scope_73:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 60% @ 100kHz
 - Ch2: Inductor Voltage measure across CS5 and COM
 
-scope_73:
-- Ch1: PWM reference measurement of Power Pole Board -> Duty 60% @ 100kHz
-- Ch2: Inductor Voltage measure across CS5 and COM
+ PWM Reference Signal of Power Pole Board -> Duty 60% @ 100kHz Resistance = 15 Ω Ch2: Inductor Voltage measure across CS5 and COM |
+:-------------------------:|
+![](5Data/scope_73.bmp) |
 
 scope_74:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 60% @ 100kHz
 - Ch2: Inductor Voltage measure across CS5 and COM
 
+ PWM Reference Signal of Power Pole Board -> Duty 60% @ 100kHz Resistance = 15 Ω Ch2: Inductor Voltage measure across CS5 and COM |
+:-------------------------:|
+![](5Data/scope_74.bmp) |
+
 scope_75:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 60% @ 80kHz
 - Ch2: Inductor Voltage measure across CS5 and COM
+
+ PWM Reference Signal of Power Pole Board -> Duty 60% @ 80kHz Resistance = 15 Ω Ch2: Inductor Voltage measure across CS5 and COM |
+:-------------------------:|
+![](5Data/scope_75.bmp) |
 
 scope_76:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 60% @ 60kHz
 - Ch2: Inductor Voltage measure across CS5 and COM
 
+ PWM Reference Signal of Power Pole Board -> Duty 60% @ 60kHz Resistance = 15 Ω Ch2: Inductor Voltage measure across CS5 and COM |
+:-------------------------:|
+![](5Data/scope_76.bmp) |
+
 scope_77:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 60% @ 40kHz
 - Ch2: Inductor Voltage measure across CS5 and COM
 
-
+ PWM Reference Signal of Power Pole Board -> Duty 60% @ 40kHz Resistance = 15 Ω Ch2: Inductor Voltage measure across CS5 and COM |
+:-------------------------:|
+![](5Data/scope_77.bmp) |
 
 section 5.4.3: Determining Efficiency
 ----------------------------------------------------------
