@@ -1,9 +1,8 @@
-# Lab-5: Buck-Boost Converter
+Lab-5: Buck-Boost Converter
 
 Lab 5 Items:
 - Waveform Captures
 Buck-Boost Converter Analysis
-
 
 Measurements and Waveforms
 
@@ -19,7 +18,7 @@ scope_65:
 - Ch2: Ouput Voltage measure across V2+ and COM
 
  PWM Reference Signal of Power Pole Board -> Duty 10% @ 100kHz Resistance = 20 Ω |
-:-------------------------:|
+ :-------------------------:|
 ![](5Data/scope_65.bmp)|
 
 scope_66:
@@ -130,8 +129,6 @@ scope_80:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 60% @ 100kHz
 - Ch2: Output Voltage measure across V2+ and COM
 
-
-
 section 5.4.4: Varying Load
 ----------------------------------------------------------
 - duty ratio @ 40%
@@ -160,20 +157,3 @@ scope_85:
 - Ch2: Output Voltage measure across V2+ and COM
 ***Discontinuous Conduction Mode due to "flat" valley peaks:
   Load Resistance = 28.7 Ω for DCM
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
