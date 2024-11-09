@@ -17,6 +17,10 @@ scope_65:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 10% @ 100kHz
 - Ch2: Ouput Voltage measure across V2+ and COM
 
+ PWM Reference Signal of Power Pole Board -> Duty 10% @ 100kHz |
+:-------------------------:|
+![](4Data/scope_65.bmp) |
+
  PWM Reference Signal of Power Pole Board -> Duty 10% @ 100kHz Resistance = 20 Ω |
  :-------------------------:|
 ![](5Data/scope_65.bmp)|
