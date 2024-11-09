@@ -20,7 +20,7 @@ scope_65:
   
  PWM Reference Signal of Power Pole Board -> Duty 10% @ 100kHz |
 :-------------------------:|
-![](Data/scope_65.bmp) |
+![](Data/scope_66.bmp) |
 
  PWM Reference Signal of Power Pole Board -> Duty 10% @ 100kHz |
 :-------------------------:|
