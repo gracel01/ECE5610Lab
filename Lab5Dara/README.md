@@ -1,3 +1,5 @@
+# Laura Parke
+# ECE 5610-001 Lab
 # Lab-5: Buck-Boost Converter
 
 Lab 5 Items:
@@ -143,8 +145,6 @@ scope_80:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 60% @ 100kHz
 - Ch2: Output Voltage measure across V2+ and COM
 
-
-
 section 5.4.4: Varying Load
 ----------------------------------------------------------
 - duty ratio @ 40%
@@ -173,20 +173,3 @@ scope_85:
 - Ch2: Output Voltage measure across V2+ and COM
 ***Discontinuous Conduction Mode due to "flat" valley peaks:
   Load Resistance = 28.7 Ω for DCM
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
