@@ -64,15 +64,30 @@ scope_39:
 - Ch1: PWM reference measurement of Power Pole Board
 - Ch2: Anode-Cathode Voltage of lower diode
 
+ PWM Reference Signal of Power Pole Board -> Peak Flat Voltage |
+:-------------------------:|
+![](3Data/scope_39.bmp) |
+
+
 scope_40:
 - Using cursor to measure peak flat voltage
 - Ch1: PWM reference measurement of Power Pole Board
 - Ch2: Anode-Cathode Voltage of lower diode
 
+ PWM Reference Signal of Power Pole Board -> Peak Flat Voltage |
+:-------------------------:|
+![](3Data/scope_40.bmp) |
+
+
 scope_41:
 - Change time to enhance ON/OFF behavior
 - Ch1: PWM reference measurement of Power Pole Board
 - Ch2: Anode-Cathode Voltage of lower diode
+
+ PWM Reference Signal of Power Pole Board -> Change Time to Enhance ON/OFF behavior |
+:-------------------------:|
+![](3Data/scope_41.bmp) |
+
 
 scope_42:
 - Ch1: PWM reference measurement of Power Pole Board
