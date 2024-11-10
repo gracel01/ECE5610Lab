@@ -27,7 +27,7 @@ scope_35:
 
  PWM Reference Signal of Power Pole Board -> Minimum Flat Voltage |
 :-------------------------:|
-![](3Data/scope_35.bmp) |
+![](3Data/scope_thirty_five.bmp) |
 
 scope_36:
 - Change time to enhance ON behavior
