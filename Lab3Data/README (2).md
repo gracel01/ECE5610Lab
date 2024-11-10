@@ -15,6 +15,10 @@ scope_34:
 - Using cursor to measure peak flat voltage
 - Ch1: PWM reference measurement of Power Pole Board
 - Ch2: Anode-Cathode Voltage of lower diode
+  
+ PWM Reference Signal of Power Pole Board -> Peak Flat Voltage |
+:-------------------------:|
+![](3Data/scope_34.bmp) |
 
 scope_35:
 - Using cursor to measure minimum flat voltage
