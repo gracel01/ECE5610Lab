@@ -21,7 +21,7 @@ scope_65:
 
  PWM Reference Signal of Power Pole Board -> Duty 10% @ 100kHz|
 :-------------------------:|
-![](FiveLab/scope_6_five.bmp) |
+![](Data/scope_6_five.bmp) |
 
 scope_66:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 10% @ 100kHz
@@ -37,7 +37,7 @@ scope_67:
 
  PWM Reference Signal of Power Pole Board -> Duty 20% @ 100kHz Resistance = 20 Ω |
 :-------------------------:|
-![](5Data/scope_67.bmp) |
+![](Data/scope_67.bmp) |
 
 scope_68:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 30% @ 100kHz
@@ -45,7 +45,7 @@ scope_68:
 
  PWM Reference Signal of Power Pole Board -> Duty 30% @ 100kHz Resistance = 20 Ω |
 :-------------------------:|
-![](5Data/scope_68.bmp) |
+![](Data/scope_68.bmp) |
 
 scope_69:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 40% @ 100kHz
@@ -53,7 +53,7 @@ scope_69:
 
  PWM Reference Signal of Power Pole Board -> Duty 40% @ 100kHz Resistance = 20 Ω |
 :-------------------------:|
-![](5Data/scope_69.bmp) |
+![](Data/scope_69.bmp) |
 
 scope_70:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 50% @ 100kHz
@@ -61,7 +61,7 @@ scope_70:
 
  PWM Reference Signal of Power Pole Board -> Duty 50% @ 100kHz Resistance = 20 Ω |
 :-------------------------:|
-![](5Data/scope_70.bmp) |
+![](Data/scope_70.bmp) |
 
 scope_71:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 60% @ 100kHz
@@ -69,7 +69,7 @@ scope_71:
 
  PWM Reference Signal of Power Pole Board -> Duty 60% @ 100kHz Resistance = 20 Ω |
 :-------------------------:|
-![](5Data/scope_71.bmp) |
+![](Data/scope_71.bmp) |
 
 section 5.4.2: Varying Switching Frequency
 ----------------------------------------------------------
@@ -84,33 +84,46 @@ scope_72:
 
  PWM Reference Signal of Power Pole Board -> Duty 60% @ 100kHz Resistance = 15 Ω |
 :-------------------------:|
-![](5Data/scope_72.bmp) |
+![](Data/scope_72.bmp) |
 
 scope_73:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 60% @ 100kHz
 - Ch2: Inductor Voltage measure across CS5 and COM
 
-scope_73:
-- Ch1: PWM reference measurement of Power Pole Board -> Duty 60% @ 100kHz
-- Ch2: Inductor Voltage measure across CS5 and COM
+ PWM Reference Signal of Power Pole Board -> Duty 60% @ 100kHz Resistance = 15 Ω|
+:-------------------------:|
+![](Data/scope_73.bmp) |
 
 scope_74:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 60% @ 100kHz
 - Ch2: Inductor Voltage measure across CS5 and COM
 
+ PWM Reference Signal of Power Pole Board -> Duty 60% @ 100kHz Resistance = 15 Ω|
+:-------------------------:|
+![](Data/scope_74.bmp) |
 scope_75:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 60% @ 80kHz
 - Ch2: Inductor Voltage measure across CS5 and COM
+
+ PWM Reference Signal of Power Pole Board -> Duty 60% @ 80kHz Resistance = 15 Ω|
+:-------------------------:|
+![](Data/scope_74.bmp) |
 
 scope_76:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 60% @ 60kHz
 - Ch2: Inductor Voltage measure across CS5 and COM
 
+ PWM Reference Signal of Power Pole Board -> Duty 60% @ 60kHz Resistance = 15 Ω|
+:-------------------------:|
+![](Data/scope_76.bmp) |
+
 scope_77:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 60% @ 40kHz
 - Ch2: Inductor Voltage measure across CS5 and COM
 
-
+ PWM Reference Signal of Power Pole Board -> Duty 60% @ 40kHz Resistance = 15 Ω|
+:-------------------------:|
+![](Data/scope_77.bmp) |
 
 section 5.4.3: Determining Efficiency
 ----------------------------------------------------------
@@ -123,13 +136,25 @@ scope_78:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 60% @ 60kHz
 - Ch2: Output Voltage measure across V2+ and COM
 
+ PWM Reference Signal of Power Pole Board -> Duty 60% @ 60kHz Resistance = 15 Ω|
+:-------------------------:|
+![](Data/scope_78.bmp) |
+
 scope_79:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 60% @ 60kHz
 - Ch2: Output Voltage measure across V2+ and COM
 
+ PWM Reference Signal of Power Pole Board -> Duty 60% @ 60kHz Resistance = 15 Ω|
+:-------------------------:|
+![](Data/scope_79.bmp) |
+
 scope_80:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 60% @ 100kHz
 - Ch2: Output Voltage measure across V2+ and COM
+
+ PWM Reference Signal of Power Pole Board -> Duty 60% @ 100kHz Resistance = 15 Ω|
+:-------------------------:|
+![](Data/scope_80.bmp) |
 
 section 5.4.4: Varying Load
 ----------------------------------------------------------
@@ -142,20 +167,39 @@ scope_81:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 40% @ 40kHz
 - Ch2: Output Voltage measure across V2+ and COM
 
+ PWM Reference Signal of Power Pole Board -> Duty 40% @ 40kHz Resistance = 20 Ω|
+:-------------------------:|
+![](Data/scope_81.bmp) |
+
 scope_82:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 40% @ 40kHz
 - Ch2: Output Voltage measure across V2+ and COM
+
+ PWM Reference Signal of Power Pole Board -> Duty 40% @ 40kHz Resistance = 20 Ω|
+:-------------------------:|
+![](Data/scope_82.bmp) |
 
 scope_83:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 40% @ 40kHz
 - Ch2: Output Voltage measure across V2+ and COM
 
+ PWM Reference Signal of Power Pole Board -> Duty 40% @ 40kHz Resistance = 20 Ω|
+:-------------------------:|
+![](Data/scope_83.bmp) |
+
 scope_84:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 40% @ 40kHz
 - Ch2: Output Voltage measure across V2+ and COM
 
+ PWM Reference Signal of Power Pole Board -> Duty 40% @ 40kHz Resistance = 20 Ω|
+:-------------------------:|
+![](Data/scope_84.bmp) |
 scope_85:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 40% @ 40kHz
 - Ch2: Output Voltage measure across V2+ and COM
 ***Discontinuous Conduction Mode due to "flat" valley peaks:
   Load Resistance = 28.7 Ω for DCM
+
+ PWM Reference Signal of Power Pole Board -> Duty 40% @ 40kHz Load Resistance = 28.7 for DCM Ω|
+:-------------------------:|
+![](Data/scope_84.bmp) |
