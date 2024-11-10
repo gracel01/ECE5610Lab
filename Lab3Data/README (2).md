@@ -93,20 +93,39 @@ scope_42:
 - Ch1: PWM reference measurement of Power Pole Board
 - Ch2: Drain-Source MOSFET V_DS
 
+ PWM Reference Signal of Power Pole Board -> PMW Reference Measurement |
+:-------------------------:|
+![](3Data/scope_42.bmp) |
+
 scope_43:
 - Change time view
 - Ch1: PWM reference measurement of Power Pole Board
 - Ch2: Drain-Source MOSFET V_DS
+ 
+ PWM Reference Signal of Power Pole Board -> Change Time View |
+:-------------------------:|
+![](3Data/scope_43.bmp) |
+
 
 scope_44:
 - Ch1: PWM reference measurement of Power Pole Board
 - Ch2: Output load voltage
 *Calculate load current I_o
 
+ PWM Reference Signal of Power Pole Board -> PMW Reference Measurement |
+:-------------------------:|
+![](3Data/scope_44.bmp) |
+
+
 scope_45:
 - Ch1: PWM reference measurement of Power Pole Board
 - Ch2: Output load voltage
 *Calculate load current I_o
+
+ PWM Reference Signal of Power Pole Board -> PWM Reference Measurement |
+:-------------------------:|
+![](3Data/scope_forty_five.bmp) |
+
 
 
 
