@@ -25,16 +25,28 @@ scope_35:
 - Ch1: PWM reference measurement of Power Pole Board
 - Ch2: Anode-Cathode Voltage of lower diode
 
+ PWM Reference Signal of Power Pole Board -> Minimum Flat Voltage |
+:-------------------------:|
+![](3Data/scope_35.bmp) |
 
 scope_36:
 - Change time to enhance ON behavior
 - Ch1: PWM reference measurement of Power Pole Board
 - Ch2: Anode-Cathode Voltage of lower diode
 
+ PWM Reference Signal of Power Pole Board -> Change Time |
+:-------------------------:|
+![](3Data/scope_36.bmp) |
+
+
 scope_37:
 - Change time view multiple cycles
 - Ch1: PWM reference measurement of Power Pole Board
 - Ch2: Anode-Cathode Voltage of lower diode
+
+ PWM Reference Signal of Power Pole Board -> Change Time View Multiple Cycles |
+:-------------------------:|
+![](3Data/scope_37.bmp) |
 
 scope_38:
 - Change time to enhance OFF behavior
