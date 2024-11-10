@@ -53,6 +53,9 @@ scope_38:
 - Ch1: PWM reference measurement of Power Pole Board
 - Ch2: Anode-Cathode Voltage of lower diode
 
+ PWM Reference Signal of Power Pole Board -> Change Time to Enhance Off Behavior|
+:-------------------------:|
+![](3Data/scope_38.bmp) |
 
 ***Changed external power supply to different unit for stability concerns of previous scope_34-35***
 
