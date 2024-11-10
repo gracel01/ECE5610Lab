@@ -29,7 +29,7 @@ scope_66:
   
  PWM Reference Signal of Power Pole Board -> Duty 10% @ 100kHz Resistance = 20 Ω|
 :-------------------------:|
-![](FiveLab/scope_66.bmp) |
+![](Data/scope_66.bmp) |
 
 scope_67:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 20% @ 100kHz
