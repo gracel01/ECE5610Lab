@@ -15,7 +15,7 @@ Power-pole Board:
 
  Power-pole Board|
 :-------------------------:|
-![help](1Data/Power_pole.bmp) |
+![](Lab1/1Data/Power_pole.bmp) |
 
 scope_66:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 10% @ 100kHz
