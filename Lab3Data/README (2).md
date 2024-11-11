@@ -1,3 +1,5 @@
+#Laura Parke 
+#ECE 5610-001
 Lab 3 Items:
 - Waveform Captures
 Buck Converter: MOSFET Analysis
