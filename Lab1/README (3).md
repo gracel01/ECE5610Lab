@@ -1,10 +1,10 @@
 # Laura Parke ECE 5610-002
 ---------------------------------------------------------
-Lab-5: Buck-Boost Converter
+Lab-1: Pulse-Wdith Modulation and Filter Characteristics
 
-Lab 5 Items:
+Lab 1 Items:
 - Waveform Captures
-Buck-Boost Converter Analysis
+Mosfet Analysis
 
 Measurements and Waveforms
 
