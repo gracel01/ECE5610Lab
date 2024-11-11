@@ -8,20 +8,14 @@ Mosfet Analysis
 
 Measurements and Waveforms
 
-section 5.4.1: Varying Duty Ratio
+section 1.2.1 Power-pole Board
 ----------------------------------------------------------
-- duty ratio @ 10%
-- Load Resistance = 20 Ω
-- Switching Frequency = 100 kHz
-- External Input Voltage Vd = 10V (DC Power Supply)
+Power-pole Board:
+- image of Power-pole Board
 
-scope_65:
-- Ch1: PWM reference measurement of Power Pole Board -> Duty 10% @ 100kHz
-- Ch2: Ouput Voltage measure across V2+ and COM
-
- PWM Reference Signal of Power Pole Board -> Duty 10% @ 100kHz|
+ Power-pole Boare|
 :-------------------------:|
-![](Data/scope_6_five.bmp) |
+![](1Data/Power_pole.bmp) |
 
 scope_66:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 10% @ 100kHz
