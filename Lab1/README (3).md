@@ -13,7 +13,7 @@ section 1.2.1 Power-pole Board
 Power-pole Board:
 - image of Power-pole Board
 
- Power-pole Boare|
+ Power-pole Board |
 :-------------------------:|
 ![](1Data/Power_pole.bmp) |
 
