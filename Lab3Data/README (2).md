@@ -22,6 +22,7 @@ section 3.4: Measurements and Waveforms
    Input:
    Ch-1: PWM Output
    Ch-2: V_diode (C53 / GND) -> C53
+   
      15.63 V - top flat line
      -0.700 V - bottom flat line
    
