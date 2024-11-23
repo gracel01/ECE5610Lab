@@ -6,7 +6,10 @@ Lab 5 Items:
 - Waveform Captures
 Buck-Boost Converter Analysis
 
+Abstract: We looked at the characteristics of a simple buck-boost converter. The circuit was operated under continuous conduction mode (CCM) and open loop conditions, which means no feedback. In this lab, we compare the theoretical results with the experimental results. The simulation observes switching waveforms in a near-ideal buck-boost converter operating at a fixed duty cycle.  Simulated results atr compared to both theoretical calculations and experimental results.
+
 Measurements and Waveforms
+1.  
 
 section 5.4.1: Varying Duty Ratio
 ----------------------------------------------------------
