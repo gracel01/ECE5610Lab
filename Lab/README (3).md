@@ -16,14 +16,14 @@ Measurements and Waveforms
    
    Duty Ratio | 10% | 20% | 30% | 40% | 50% | 60%
 
+   Measure the average output voltage for the corresponding duty ratios:
+
    Vout Exp V | 0.89 | 2.06 | 3.69 | 5.89 | 8.89 | 13.03
+
+   Calculate the theoretical average output voltage for the corresponding duty ratios:
 
    Vout Thr V | 1.11 | 2.50 | 4.29 | 6.67 | 10.0 | 15.0
    
-   
-   Measure the average output voltage for the corresponding duty ratios:
-   
-   Calculate the theoretical average output voltage for the corresponding duty ratios:
 
 section 5.4.1: Varying Duty Ratio
 ----------------------------------------------------------
