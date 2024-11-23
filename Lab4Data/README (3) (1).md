@@ -5,6 +5,10 @@ Lab 4 Items:
 - Waveform Captures
 Boost Converter Analysis
 
+Abstract:   The characteristics of a simple boost converter were studied in this experimetn. The circuit will
+was operated under continuous conduction mode (CCM) and open loop conditions, which means no feedback.  We compare 
+the theoretical results with the experimental results.  The simulation is used to observe switching waveforms in a 
+near-ideal boost converter operating at a fixed duty cycle.  Simulated results are compared to theoretical calculations and experimental results.
 
 Measurements and Waveforms
 
@@ -14,6 +18,15 @@ section 4.4.1: Varying Duty Ratio
 - Load Resistance = 20 Ω
 - Switching Frequency = 100 kHz
 - External Input Voltage Vd = 10V (DC Power Supply)
+
+1.  Measure the average output voltage for the corresponding duty ratios:
+    Duty                  | 10%   | 20%   | 30%   | 40%   | 50%   | 60%
+    
+    V_o experimental (V)  | 10.3  | 11.58 | 13.2  | 15.3  | 18.2  | 21.3
+
+    V_o theoretical  (V)  | 11.22 | 12.63 | 14.43 | 16.83 | 20.2  | 25.25
+
+• Calculate the theoretical average output voltage for the corresponding duty ratios.
 
 scope_50:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 10% @ 100kHz
