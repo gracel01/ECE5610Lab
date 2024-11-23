@@ -24,9 +24,12 @@ section 3.4: Measurements and Waveforms
    Ch-2: V_diode (C53 / GND) -> C53
      15.63 V - top flat line
      -0.700 V - bottom flat line
+   
    V_diode (V_AK) = 15.63 V - (-0.700V) =16.33 V
+
      14.7 V - top flat line
      -0.700 V - bottom flat line
+   
    V_diode (V_AK) = 14.7 V - (-0.700 V) = 15.4 V
    
    C53:
@@ -41,15 +44,15 @@ section 3.4: Measurements and Waveforms
    PSU:  15 V @ 0.28 Amps (source Vin)
         15(0.3) = 6V(0.700)
 
-2.  Top MOSFET: Ch2: drain and source
+3.  Top MOSFET: Ch2: drain and source
     -average: 140 mV/10 Ω = 14 mAmps
     -Pk-pk: 9.6 V
-3.  Ch 2:  drain and source of top Mosfet   50+V triangle wave
+4.  Ch 2:  drain and source of top Mosfet   50+V triangle wave
     -average: 14.256 V
     -average: 13.82 V
     I_ds (mosfet) (CS1) = 140 mV/0.05 Ω = 28 mAmps
-4.  V_FM = 0.7 V
-5.  I_o = 623 mAmps
+5.  V_FM = 0.7 V
+6.  I_o = 623 mAmps
     V_o = 6.22 V @ 10 Amps
     
 scope_34:
