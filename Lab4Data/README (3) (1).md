@@ -23,19 +23,25 @@ section 4.4.1: Varying Duty Ratio
 
     Vary the duty ratio from 10% to 60% (in steps of 10%):
      
-    Duty Ratio __________ | 10.0% | 20.0% | 30.0% | 40.0% | 50.0% | 60.0%
+    Duty Ratio _________ | 10.0% | 20.0% | 30.0% | 40.0% | 50.0% | 60.0%
     
     Measure the average output voltage for the corresponding duty ratios:
     
-    V_o experimental  (V) | 10.30 | 11.58 | 13.20 | 15.30 | 18.20 | 21.3
+    V_o experimental (V) | 10.30 | 11.58 | 13.20 | 15.30 | 18.20 | 21.3
 
     Calculate the theoretical average output voltage for the corresponding duty ratios:
 
-    V_o theoretical   (V) | 11.22 | 12.63 | 14.43 | 16.83 | 20.2  | 25.25
+    V_o theoretical (V) | 11.22 | 12.63 | 14.43 | 16.83 | 20.2  | 25.25
 
-2. Set the duty ratio to 50%, switching frequency at 100 kHz and RL = 20 Ω.
-   Measure the peak-peak input current ripple.
+2. Set the duty ratio to 50%, switching frequency at 100, 40, 60, 80 kHz and RL = 20 Ω.
+   
+   Switching Frequency | 100KHz| 40 KHz| 60 KHz| 80 KHz|
 
+   Measure the peak-peak input current ripple:
+   
+   Ripple Current I_in | 44 mA | 45 mA | 43 mA | 40 mA
+
+3. 
 
 
 scope_50:
