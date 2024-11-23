@@ -12,8 +12,32 @@ section 3.4: Measurements and Waveforms
 - Load Resistance = 10 Ω
 - Switching Frequency = 100 kHz
 - External Input Voltage Vd = 15V (DC Power Supply)
+1. V_ak -> C53 Diode
+   Input:
+   Ch-1: PWM Output
+   Ch-2: V_diode (C53 / GND) -> C53
+     15.63 V - top flat line
+     -0.700 V - bottom flat line
+   V_diode (V_AK) = 15.63 V - (-0.700V) =16.33 V
+     14.7 V - top flat line
+     -0.700 V - bottom flat line
+   V_diode (V_AK) = 14.7 V - (-0.700 V) = 15.4 V
+   
+   C53:
+   460 mV Peak-to-Peak
+   R_L = 10 Ω
+   I_diode (C53) = 460 mV/10 Ω = 46 mAmps
 
+   760 mV Peak-to-Peak
+   R_L = 10 Ω
+   I_diode (C53) = 760 mV/10 Ω = 76 mAmps
 
+  PSU:  15 V @ 0.28 Amps (source Vin)
+        15(0.3) = 6V(0.700)
+
+2.  Top MOSFET: Ch2: drain and source
+    -average: 140 mV
+    Pk-pk: 9.6 V
 scope_34:
 - Using cursor to measure peak flat voltage
 - Ch1: PWM reference measurement of Power Pole Board
@@ -22,6 +46,8 @@ scope_34:
  PWM Reference Signal of Power Pole Board -> Peak Flat Voltage |
 :-------------------------:|
 ![](3Data/scope_34.bmp) |
+
+
 
 scope_35:
 - Using cursor to measure minimum flat voltage
