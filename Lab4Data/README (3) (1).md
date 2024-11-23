@@ -31,7 +31,7 @@ section 4.4.1: Varying Duty Ratio
 
     Calculate the theoretical average output voltage for the corresponding duty ratios:
 
-    V_o theoretical (V)_ | 11.22 | 12.63 | 14.43 | 16.83 | 20.20  | 25.25
+    V_o theoretical (V)__ | 11.22 | 12.63 | 14.43 | 16.83 | 20.20  | 25.25
 
 2. Set the duty ratio to 50%, switching frequency at 100, 40, 60, 80 kHz and RL = 20 Ω.
    
