@@ -39,7 +39,7 @@ section 4.4.1: Varying Duty Ratio
 
    Measure the peak-peak input current ripple:
    
-   Ripple Current I_in | 44 mA | 45 mA | 43 mA | 40 mA
+   Ripple Current I_in_ | 44 mA | 45 mA | 43 mA | 40 mA
 
 3. 
 
