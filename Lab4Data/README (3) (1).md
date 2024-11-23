@@ -21,13 +21,13 @@ section 4.4.1: Varying Duty Ratio
 
 1.  Set the duty ratio to10%, switching frequency at 100 kHz and RL = 20 Ω.
 
-    Vary the duty ratio from 10% to 60% (in steps of 10%).
+    Vary the duty ratio from 10% to 60% (in steps of 10%):
+     
+    Duty Ratio __________ | 10.0% | 20.0% | 30.0% | 40.0% | 50.0% | 60.0%
     
-    Measure the average output voltage for the corresponding duty ratios:
+ Measure the average output voltage for the corresponding duty ratios:
     
-    Duty                  | 10%   | 20%   | 30%   | 40%   | 50%   | 60%
-    
-    V_o experimental  (V) | 10.3  | 11.58 | 13.2  | 15.3  | 18.2  | 21.3
+    V_o experimental  (V) | 10.30 | 11.58 | 13.20 | 15.30 | 18.20 | 21.3
 
    Calculate the theoretical average output voltage for the corresponding duty ratios:
 
