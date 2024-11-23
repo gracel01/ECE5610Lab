@@ -65,6 +65,10 @@ Measurements and Waveforms
 
    Calculate the efficiency of the buck-boost converter for different frequencies (60 kHz and 100 kHz) using
    the above measurements; eta = P_o/P_in: eta = /11.583
+
+4. Set the duty ratio to 40%, RL= 20 Ω and switching frequency to 40 kHz.
+   Keep increasing the load resistance until the converter enters into the discontinuous conduction mode,
+   and note the value of load resistance: R_L = 28.7 Ω
    
 section 5.4.1: Varying Duty Ratio
 ----------------------------------------------------------
