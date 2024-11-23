@@ -23,7 +23,16 @@ Measurements and Waveforms
    Calculate the theoretical average output voltage for the corresponding duty ratios:
 
    Vout Thr V | 1.11 | 2.50 | 4.29 | 6.67 | 10.0 | 15.0
-   
+
+2. Set the duty ratio to 60%, 40%, 60%, 80% switching frequency at 100 kHz and RL = 15Ω:
+
+   Switching Frequency | 190% | 40% | 60% | 80% 
+
+   Measure the peak-peak inductor current ripple:
+
+   I_L ripple (Amps) _ | 240A | 500A | 360A | 290% 
+• Observe and make a copy of the inductor current (CS5) waveform.
+• Repeat the above procedure for different switching frequencies (40 kHz, 60 kHz, and 80 kHz).
 
 section 5.4.1: Varying Duty Ratio
 ----------------------------------------------------------
