@@ -4,6 +4,7 @@
 Lab 3 Items:
 - Waveform Captures
 Buck Converter: MOSFET Analysis
+
 ABSTRACT:  In this experiment we study the switching characteristics of power MOSFETs and power 
 diodes using a buck converter. The circuit is operated in open loop conditions with no feedback.
 The purpose of this lab is to understand the switching behavior of these two power devices. We perform
