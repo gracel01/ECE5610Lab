@@ -4,6 +4,11 @@
 Lab 3 Items:
 - Waveform Captures
 Buck Converter: MOSFET Analysis
+ABSTRACT:  In this experiment we study the switching characteristics of power MOSFETs and power 
+diodes using a buck converter. The circuit is operated in open loop conditions with no feedback.
+The purpose of this lab is to understand the switching behavior of these two power devices. We perform
+Psice simulations to take measurements and compare with values obtained in the datasheet IRF640.  We
+estimate switching power losses during the turn-ON and turn-OFF of both the MOSFET and diode.
 
 
 section 3.4: Measurements and Waveforms
@@ -36,8 +41,16 @@ section 3.4: Measurements and Waveforms
         15(0.3) = 6V(0.700)
 
 2.  Top MOSFET: Ch2: drain and source
-    -average: 140 mV
-    Pk-pk: 9.6 V
+    -average: 140 mV/10 Ω = 14 mAmps
+    -Pk-pk: 9.6 V
+3.  Ch 2:  drain and source of top Mosfet   50+V triangle wave
+    -average: 14.256 V
+    -average: 13.82 V
+    I_ds (mosfet) (CS1) = 140 mV/0.05 Ω = 28 mAmps
+4.  V_FM = 0.7 V
+5.  I_o = 623 mAmps
+    V_o = 6.22 V @ 10 Amps
+    
 scope_34:
 - Using cursor to measure peak flat voltage
 - Ch1: PWM reference measurement of Power Pole Board
