@@ -6,10 +6,21 @@ Lab 5 Items:
 - Waveform Captures
 Buck-Boost Converter Analysis
 
-Abstract: We looked at the characteristics of a simple buck-boost converter. The circuit was operated under continuous conduction mode (CCM) and open loop conditions, which means no feedback. In this lab, we compare the theoretical results with the experimental results. The simulation observes switching waveforms in a near-ideal buck-boost converter operating at a fixed duty cycle.  Simulated results atr compared to both theoretical calculations and experimental results.
+Abstract: We looked at the characteristics of a simple buck-boost converter. The circuit was operated under continuous conduction mode (CCM) and open loop conditions, which means no feedback. In this lab, we compare the theoretical results with the experimental results. The simulation observes switching waveforms in a near-ideal buck-boost converter operating at a fixed duty cycle.  Simulated results are compared to both theoretical calculations and experimental results.
 
 Measurements and Waveforms
-1.  
+
+1. Set the duty ratio to 10%, switching frequency at 100 kHz and RL = 20Ω.
+   
+   Vary the duty ratio from 10% to 60% (in steps of 10%):
+   
+   Duty Ratio | 10% | 20% | 30% | 40% | 50% | 60%
+
+   Vout Exp V |0.89 |2.06 |3.69 |5.89 |8.89 |13.03
+   
+   Measure the average output voltage for the corresponding duty ratios:
+   
+   Calculate the theoretical average output voltage for the corresponding duty ratios:
 
 section 5.4.1: Varying Duty Ratio
 ----------------------------------------------------------
