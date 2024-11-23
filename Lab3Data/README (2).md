@@ -38,7 +38,7 @@ section 3.4: Measurements and Waveforms
    R_L = 10 Ω
    I_diode (C53) = 760 mV/10 Ω = 76 mAmps
 
-  PSU:  15 V @ 0.28 Amps (source Vin)
+   PSU:  15 V @ 0.28 Amps (source Vin)
         15(0.3) = 6V(0.700)
 
 2.  Top MOSFET: Ch2: drain and source
