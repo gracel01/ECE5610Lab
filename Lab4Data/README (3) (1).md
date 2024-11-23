@@ -44,13 +44,21 @@ section 4.4.1: Varying Duty Ratio
    Observe and make a copy of the input current (CS5) waveform (see below).
 
 4. Determine the Efficiency.
+   
    Set duty ratio at 50%.
+   
    Set load resistance RL = 20 Ω.
+   
    Measure the RMS output current Io: 0.86 A
+   
    Measure the RMS input current Ii: 1.83 A
+   
    Measure the RMS output voltage: 17.2 V
+   
    Measure the RMS input voltage: 19 V
+   
    Calculate the efficiency of the boost converter for different frequencies (60 kHz and 100 kHz) using the above measurements;
+   
    eta = P_o/P_in: 16.562 W / 17.3 W = 0.9050 = 90.50 %
 
    
