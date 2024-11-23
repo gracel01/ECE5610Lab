@@ -30,10 +30,42 @@ Measurements and Waveforms
 
    Measure the peak-peak inductor current ripple:
 
-   I_L ripple (Amps) _ | 240A | 500A | 360A | 290% 
-• Observe and make a copy of the inductor current (CS5) waveform.
-• Repeat the above procedure for different switching frequencies (40 kHz, 60 kHz, and 80 kHz).
+   I_L ripple (Amps) _ | 240A | 500A | 360A | 290%
+   
+   Observe and make a copy of the inductor current (CS5) waveform (see below).
 
+3. Determine the Efficiency.
+
+   Set duty ratio at 60%.
+
+   Set load resistance RL = 15Ω.
+
+   Measure the RMS output current Io: 
+
+   Measure the RMS input current Ii: 1.1
+
+   Measure the RMS output voltage: 8.46 V
+
+   Measure the RMS input voltage: 10.48
+   
+   Calculate the efficiency of the buck-boost converter for different frequencies (60 kHz and 100 kHz) using
+   the above measurements; eta = P_o/P_in: eta = /11.528
+
+   Set duty ratio at 100%.
+
+   Set load resistance RL = 15Ω.
+
+   Measure the RMS output current Io: 
+
+   Measure the RMS input current Ii: 1.1 Amps
+
+   Measure the RMS output voltage: 8.56 V
+
+   Measure the RMS input voltage: 10.53 V
+
+   Calculate the efficiency of the buck-boost converter for different frequencies (60 kHz and 100 kHz) using
+   the above measurements; eta = P_o/P_in: eta = /11.583
+   
 section 5.4.1: Varying Duty Ratio
 ----------------------------------------------------------
 - duty ratio @ 10%
