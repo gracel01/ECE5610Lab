@@ -25,11 +25,11 @@ section 4.4.1: Varying Duty Ratio
      
     Duty Ratio __________ | 10.0% | 20.0% | 30.0% | 40.0% | 50.0% | 60.0%
     
- Measure the average output voltage for the corresponding duty ratios:
+    Measure the average output voltage for the corresponding duty ratios:
     
     V_o experimental  (V) | 10.30 | 11.58 | 13.20 | 15.30 | 18.20 | 21.3
 
-   Calculate the theoretical average output voltage for the corresponding duty ratios:
+    Calculate the theoretical average output voltage for the corresponding duty ratios:
 
     V_o theoretical   (V) | 11.22 | 12.63 | 14.43 | 16.83 | 20.2  | 25.25
 
