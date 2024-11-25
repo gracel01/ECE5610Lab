@@ -230,7 +230,7 @@ circuit for a much longer time (way more than 10 switching cycles).
 :-------------------------:|
 ![](Lab2Data/buck_converter_3.bmp) |      
 
-6. Plot iC waveform. What is the average of iC. Compare the iC waveform with the ripple in iL.
+6. Plot iC waveform. What is the average of iC = -121.5 mA. Compare the iC waveform with the ripple in iL.  Both the iC waveform and the ripple in iL are triangular.
 
  Plot iC |
 :-------------------------:|
