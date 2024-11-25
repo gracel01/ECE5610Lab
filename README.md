@@ -218,19 +218,19 @@ circuit for a much longer time (way more than 10 switching cycles).
 :-------------------------:|
 ![](Lab2Data/buck_converter_1.bmp) |  
 
-3. Plot the average value of vL. average value of vL = 12.181 V
+2. Plot the average value of vL. average value of vL = 12.181 V
 
  Plot the average value of vL |
 :-------------------------:|
 ![](Lab2Data/buck_converter_2.bmp) |     
     
-5. Plot iL and measure the peak-peak ripple ∆iL and compare it with the equation in the text book.  ∆iL = iLmax - iLmin = 1.72995 A - 0.683534 A = 1.04642 A.
+3. Plot iL and measure the peak-peak ripple ∆iL and compare it with the equation in the text book.  ∆iL = iLmax - iLmin = 1.72995 A - 0.683534 A = 1.04642 A.
 
  Plot iL |
 :-------------------------:|
 ![](Lab2Data/buck_converter_3.bmp) |      
 
-6. Plot iC waveform. What is the average of iC = -121.5 mA. Compare the iC waveform with the ripple in iL.  Both the iC waveform and the ripple in iL are triangular.
+4. Plot iC waveform. What is the average of iC = -121.5 mA. Compare the iC waveform with the ripple in iL.  Both the iC waveform and the ripple in iL are triangular.
 
  Plot iC |
 :-------------------------:|
