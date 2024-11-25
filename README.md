@@ -216,7 +216,7 @@ circuit for a much longer time (way more than 10 switching cycles).
 
  Plot iL, vL and vo |
 :-------------------------:|
-![](Lab2Data/buck_converter_i_L_v_L_v_out.bmp) |  
+![](Lab2Data/buck_converter_1.bmp) |  
 
 3. Plot the average value of vL.
     
