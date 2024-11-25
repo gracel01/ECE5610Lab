@@ -220,16 +220,20 @@ circuit for a much longer time (way more than 10 switching cycles).
 
 3. Plot the average value of vL.
     
-4. Plot iL and measure the peak-peak ripple ∆iL and compare it with the equation in the text book. 
+4. Plot iL and measure the peak-peak ripple ∆iL and compare it with the equation in the text book.  ∆iL = iLmax - iLmin = 1.72995 A - 0.683534 A = 1.04642 A.
 
-5. Plot iC waveform. What is the average of iC. Compare the iC waveform with the ripple in iL. 
-6. Plot the input current waveform and calculate its average. Compare that to the value calculated 
+ Plot iL |
+:-------------------------:|
+![](Lab2Data/buck_converter_3.bmp) |      
+
+6. Plot iC waveform. What is the average of iC. Compare the iC waveform with the ripple in iL. 
+7. Plot the input current waveform and calculate its average. Compare that to the value calculated 
 theoretically. 
-7. Calculate the inductance value of L, if ∆iL should be 1/3rd of the load current. Verify these computed 
+8. Calculate the inductance value of L, if ∆iL should be 1/3rd of the load current. Verify these computed 
 results with the results obtained from the simulation. 
-8. Change the output power in this circuit to one-half its original value. Measure the peak-peak ripple 
+9. Change the output power in this circuit to one-half its original value. Measure the peak-peak ripple 
 ∆iL and compare it with that in assignment 3. Comment on this comparison. 
-9. Calculate Rcrit and verify whether the converter is operating on the boundary of CCM and DCM. 
+10. Calculate Rcrit and verify whether the converter is operating on the boundary of CCM and DCM. 
 
 
 
