@@ -2,6 +2,11 @@
 # Laura Parke
 Lab 2 Items:
 - Waveform captures
+  
+ABSTRACT- The characteristics of a simple buck converter are observed. The circuit will 
+be operated under continuous conduction mode (CCM) and open loop conditions, which means no feedback. We compare the theoretical results of a simple buck converter with the experimental results.  The simulation is used to observe switching waveforms in a near-ideal buck converter operating at a fixed duty cycle. Simulated results are compared to theoretical calculations and experimental results.
+
+Measurements and Waveforms
 
 section 2.3: Verify PWM Signal
 ----------------------------------------------------------
@@ -202,6 +207,29 @@ scope_20:
 :-------------------------:|
 ![](Lab2Data/scope_20.bmp) |  
 
+PSpice
+
+Assignments: 
+1. Plot the waveforms during the last 10 switching cycles for iL, vL and vo. You need to make sure the 
+circuit has reached steady state. Depending on the operating conditions, you may need to simulate the 
+circuit for a much longer time (way more than 10 switching cycles).
+
+ Plot iL, vL and vo |
+:-------------------------:|
+![](/scope_20.bmp) |  
+
+3. Plot the average value of vL.
+    
+4. Plot iL and measure the peak-peak ripple ∆iL and compare it with the equation in the text book. 
+
+5. Plot iC waveform. What is the average of iC. Compare the iC waveform with the ripple in iL. 
+6. Plot the input current waveform and calculate its average. Compare that to the value calculated 
+theoretically. 
+7. Calculate the inductance value of L, if ∆iL should be 1/3rd of the load current. Verify these computed 
+results with the results obtained from the simulation. 
+8. Change the output power in this circuit to one-half its original value. Measure the peak-peak ripple 
+∆iL and compare it with that in assignment 3. Comment on this comparison. 
+9. Calculate Rcrit and verify whether the converter is operating on the boundary of CCM and DCM. 
 
 
 
