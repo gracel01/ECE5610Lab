@@ -90,9 +90,9 @@ Attach a graph showing the output voltage (V2+) versus duty ratio using data obt
 :-------------------------:|
 ![](Lab2Data/scope_13_1.bmp) |
 
-Compare these two plots 
-and comment on how the buck converter works as a variable dc step down transformer. Enclose 
-output voltage & voltage across diode waveforms for duty ratio 50%. 
+Compare these two:  Experimental and Theoretical results give good comparison of 93.47%.
+
+Comment on how the buck converter works as a variable dc step down transformer:   A buck converter works as a variable dc step down transformer by converting a higher DC voltage to a lower one. The converter takes in a higher DC voltage and a transistor switches on and off rapidly for the purpose of transofrming Vin into a pulsed DC voltage.  The inductor is used to smooth out the pulses from the switching element.  The inductor stores energy when the switch is on qnd gives energy when the switch is off.  The diode makes certain of one way flow of current and does not allow in back flow.  The capacitor also works to smooth out V2+. The capacitor acts as a low-pass filter to reduce high-frequency components of the switching noise. The filter helps to ensure a clean and steady DC voltage at the output. This creates a steady DC output.  Finally, the control circuit changes the duty cyle of the switching element    The buck reduces voltage while maintain a stable output. [Copilot]
 
 section 2.3: Verify PWM Signal
 ----------------------------------------------------------
