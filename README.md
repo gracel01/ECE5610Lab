@@ -241,7 +241,7 @@ circuit for a much longer time (way more than 10 switching cycles).
 ![](Lab2Data/buck_converter_6.bmp) | 
 
 5. Plot the input current waveform and calculate its average. The average input current = -707.86 mA.  Compare that to the value calculated 
-theoretically.  Theoretical average input current Iin = D*I_L = 0.5*.
+theoretically. I_o = I_L = V_0/R1 = 12 V/ 10 ohms = 1.2 Amps/ Theoretical average input current Iin = D*I_L = 0.5*1.2 Amps = 0.6 Amps.
 
  Plot i_in |
 :-------------------------:|
