@@ -263,8 +263,8 @@ To Change the output power in this circuit to one-half its original value I redu
  Plot ∆iL |
 :-------------------------:|
 ![](Lab2Data/buck_converter_7.bmp) |   
-13. Calculate Rcrit and verify whether the converter is operating on the boundary of CCM and DCM. 
 
+8. Calculate Rcrit and verify whether the converter is operating on the boundary of CCM and DCM.
 
+R_crit = (2 x L x f_s)/(1-D) = (2 x 300E-6 x 20000)/0.5 = 24 ohm;  The converter is below Rcrit, therefore it is operating in DCM.
 
-h
