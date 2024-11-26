@@ -38,7 +38,7 @@ sure that duty ratio is maintained at 50%.
 
 fs_________| 100Khz | 80 KHz | 60 KHz | 40 KHz
 
-Vo Ripp (V)| 200 mV | 240 mV | 260 mV | 300 mV
+Vo Ripp(V)| 200 mV | 240 mV | 260 mV | 300 mV
 
 iC Amps _| 0.31 A _ | 0.37 A  | 0.37 A  | 0.44 A
 
