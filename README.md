@@ -241,6 +241,7 @@ theoretically.  Theoretical input current = 0 Amps (switch is open); Iin = D*I_L
  Plot i_in |
 :-------------------------:|
 ![](Lab2Data/buck_converter_5.bmp) |   
+
 9. Calculate the inductance value of L, if ∆iL should be 1/3rd of the load current. Verify these computed 
 results with the results obtained from the simulation. 
 10. Change the output power in this circuit to one-half its original value. Measure the peak-peak ripple 
