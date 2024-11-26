@@ -241,17 +241,18 @@ circuit for a much longer time (way more than 10 switching cycles).
 ![](Lab2Data/buck_converter_6.bmp) | 
 
 5. Plot the input current waveform and calculate its average. The average input current = -707.86 mA.  Compare that to the value calculated 
-theoretically. I_o = I_L = V_0/R1 = 12 V/ 10 ohms = 1.2 Amps/ Theoretical average input current Iin = D*I_L = 0.5*1.2 Amps = 0.6 Amps.
+theoretically. I_o = I_L = V_0/R1 = 12 V/ 10 ohms = 1.2 Amps. Theoretical average input current Iin = D x I_L = 1.2 Amps x 0.5 = 0.6 Amps.
 
  Plot i_in |
 :-------------------------:|
 ![](Lab2Data/buck_converter_5.bmp) |   
 
 9. Calculate the inductance value of L, if ∆iL should be 1/3rd of the load current. Verify these computed 
-results with the results obtained from the simulation. 
-10. Change the output power in this circuit to one-half its original value. Measure the peak-peak ripple 
+results with the results obtained from the simulation.
+   L = (Vo(1-D) x Ts)/delta_iL = (12V x 0.5 x 50E-6s)/ 0.4A = 75E-5 F
+11. Change the output power in this circuit to one-half its original value. Measure the peak-peak ripple 
 ∆iL and compare it with that in assignment 3. Comment on this comparison. 
-11. Calculate Rcrit and verify whether the converter is operating on the boundary of CCM and DCM. 
+12. Calculate Rcrit and verify whether the converter is operating on the boundary of CCM and DCM. 
 
 
 
