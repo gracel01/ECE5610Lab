@@ -54,6 +54,34 @@ Keep increasing the load impedance until the Buck Converter enters into disconti
 
 Io = Vo/R = 53.45 ohms 
 
+2.4.4 Determining efficiency 
+
+Set duty ratio at 50% and load resistance RL = 10 Ω @ 100 KHZ
+
+Measure the RMS output current Io = 491 mA
+
+Measure the RMS input current Ii =
+. 
+Measure the RMS output voltage V2+ = 
+
+Measure the RMS input voltage Vd =
+
+Calculate the efficiency of the buck converter for different frequencies (60 kHz and 100 kHz) using the 
+above measurements.
+
+Set duty ratio at 50% and load resistance RL = 10 Ω @ 60 KHZ
+
+Measure the RMS output current Io = 
+
+Measure the RMS input current Ii =
+. 
+Measure the RMS output voltage V2+ = 
+
+Measure the RMS input voltage Vd =
+
+Calculate the efficiency of the buck converter for different frequencies (60 kHz and 100 kHz) using the 
+above measurements.
+
 section 2.3: Verify PWM Signal
 ----------------------------------------------------------
 scope_12:
