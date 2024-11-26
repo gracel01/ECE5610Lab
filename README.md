@@ -18,7 +18,7 @@ Duty Ratio| 10% | 20% | 30% | 40% | 50% | 60% | 70% | 80% | 90%
 
 Measure the average output voltage for the corresponding duty ratios. 
 
-Vo (V)____| 1.11| 2.56| 3.95| 5.23| 7.01| 8.4 | 9.84| 10.3| 12.93
+Vo (V)____ | 1.11 | 2.56 | 3.95 | 5.23 | 7.01 | 8.40 | 9.84 | 10.3 | 12.93
 
 Calculate the theoretical average output voltage for the corresponding duty ratios. 
 
