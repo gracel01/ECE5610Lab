@@ -255,8 +255,10 @@ results with the results obtained from the simulation.
    as compared to results from the simulation:
    = (Vo(1-D) x Ts)/delta_iL = (12V x 0.5 x 50E-6s)/ 1.04642A = 287E-6 F 
 11. Change the output power in this circuit to one-half its original value. Measure the peak-peak ripple 
-∆iL and compare it with that in assignment 3. Comment on this comparison. 
-12. Calculate Rcrit and verify whether the converter is operating on the boundary of CCM and DCM. 
+∆iL and compare it with that in assignment 3. Comment on this comparison.
+
+To Change teh output power in this circuit to one-half its original value I reduce the resistance for the load to onw half its value of R - 10 ohm to R = 5 ohm.
+13. Calculate Rcrit and verify whether the converter is operating on the boundary of CCM and DCM. 
 
 
 
