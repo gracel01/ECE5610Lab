@@ -60,27 +60,27 @@ Set duty ratio at 50% and load resistance RL = 10 Ω @ 100 KHZ
 
 Measure the RMS output current Io = 491 mA
 
-Measure the RMS input current Ii =
+Measure the RMS input current Ii = 604 mA
 . 
-Measure the RMS output voltage V2+ = 
+Measure the RMS output voltage V2+ = 6.95 V
 
-Measure the RMS input voltage Vd =
+Measure the RMS input voltage Vd = 15.07 V
 
 Calculate the efficiency of the buck converter for different frequencies (60 kHz and 100 kHz) using the 
-above measurements.
+above measurements. Pefficiency = V2+xIo/VdxIi = 37.5%
 
 Set duty ratio at 50% and load resistance RL = 10 Ω @ 60 KHZ
 
-Measure the RMS output current Io = 
+Measure the RMS output current Io = 320 mA
 
-Measure the RMS input current Ii =
+Measure the RMS input current Ii = 605 mA
 . 
-Measure the RMS output voltage V2+ = 
+Measure the RMS output voltage V2+ = 6.96 V
 
-Measure the RMS input voltage Vd =
+Measure the RMS input voltage Vd = 15 v
 
 Calculate the efficiency of the buck converter for different frequencies (60 kHz and 100 kHz) using the 
-above measurements.
+above measurements. Pefficiency = V2+xIo/VdxIi = 24.5%
 
 section 2.3: Verify PWM Signal
 ----------------------------------------------------------
