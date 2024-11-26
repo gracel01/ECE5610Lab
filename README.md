@@ -83,6 +83,7 @@ Calculate the efficiency of the buck converter for different frequencies (60 kHz
 above measurements. Pefficiency = V2+xIo/VdxIi = 24.5%
 
 Lab Report
+
 Attach a graph showing the output voltage (V2+) versus duty ratio using data obtained in section 
 2.4.1. Also plot the theoretically calculated results on the same graph. 
 
