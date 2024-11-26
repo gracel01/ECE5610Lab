@@ -230,14 +230,17 @@ circuit for a much longer time (way more than 10 switching cycles).
 :-------------------------:|
 ![](Lab2Data/buck_converter_3.bmp) |      
 
-4. Plot iC waveform. What is the average of iC = -121.5 mA. Compare the iC waveform with the ripple in iL.  Both the iC waveform and the ripple in iL are triangular.
+4. Plot iC waveform. What is the average of iC = -121.5 mA. Compare the iC waveform with the ripple in iL.  Both the iC waveform and the ripple in iL are triangular; iL ~ iC.
 
  Plot iC |
 :-------------------------:|
 ![](Lab2Data/buck_converter_4.bmp) |      
 
-8. Plot the input current waveform and calculate its average. Compare that to the value calculated 
-theoretically. 
+5. Plot the input current waveform and calculate its average.  Average input current = -707.86 mA.  Compare that to the value calculated 
+theoretically.  Theoretical input current = 0 Amps (switch is open); Iin = D*I_L.
+ Plot i_in |
+:-------------------------:|
+![](Lab2Data/buck_converter_5.bmp) |   
 9. Calculate the inductance value of L, if ∆iL should be 1/3rd of the load current. Verify these computed 
 results with the results obtained from the simulation. 
 10. Change the output power in this circuit to one-half its original value. Measure the peak-peak ripple 
