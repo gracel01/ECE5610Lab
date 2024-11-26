@@ -22,7 +22,7 @@ Vo (V)____ | 1.11 | 2.56 | 3.95 | 5.23 | 7.01 | 8.40 | 9.84 | 10.3 | 12.93
 
 Calculate the theoretical average output voltage for the corresponding duty ratios. 
 
-Vo(V) calc| 1.50| 3.00| 4.50| 6.00| 7.50| 9.00| 10.5| 12.0| 13.0
+Vo(V) calc | 1.50 | 3.00 | 4.50 | 6.00 | 7.50 | 9.00 | 10.5 | 12.0 | 13.0
 
 section 2.3: Verify PWM Signal
 ----------------------------------------------------------
