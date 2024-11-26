@@ -236,6 +236,10 @@ circuit for a much longer time (way more than 10 switching cycles).
 :-------------------------:|
 ![](Lab2Data/buck_converter_4.bmp) |      
 
+ Plot iC ~ iL |
+:-------------------------:|
+![](Lab2Data/buck_converter_6.bmp) | 
+
 5. Plot the input current waveform and calculate its average.  Average input current = -707.86 mA.  Compare that to the value calculated 
 theoretically.  Theoretical input current = 0 Amps (switch is open); Iin = D*I_L.
  Plot i_in |
