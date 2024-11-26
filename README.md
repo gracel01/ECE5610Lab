@@ -82,6 +82,18 @@ Measure the RMS input voltage Vd = 15 v
 Calculate the efficiency of the buck converter for different frequencies (60 kHz and 100 kHz) using the 
 above measurements. Pefficiency = V2+xIo/VdxIi = 24.5%
 
+Lab Report
+Attach a graph showing the output voltage (V2+) versus duty ratio using data obtained in section 
+2.4.1. Also plot the theoretically calculated results on the same graph. 
+
+ Varying Dury Ratio at 50% duty |
+:-------------------------:|
+![](Lab2Data/scope_13_1.bmp) |
+
+Compare these two plots 
+and comment on how the buck converter works as a variable dc step down transformer. Enclose 
+output voltage & voltage across diode waveforms for duty ratio 50%. 
+
 section 2.3: Verify PWM Signal
 ----------------------------------------------------------
 scope_12:
