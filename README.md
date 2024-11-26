@@ -24,6 +24,36 @@ Calculate the theoretical average output voltage for the corresponding duty rati
 
 Vo(V) calc | 1.50 | 3.00 | 4.50 | 6.00 | 7.50 | 9.00 | 10.5 | 12.0 | 13.0
 
+2.4.2 Varying switching frequency <see below>
+
+Set the duty ratio to 50%, switching frequency at 100 kHz and RL = 10 Ω. 
+
+Measure the peak-peak output ripple voltage. 
+
+Observe and make a copy of the output ripple voltage, the output current (CS5) and capacitor current 
+(CS4) waveforms. 
+
+Repeat the above procedure for different switching frequencies (40 kHz, 60 kHz, and 80 kHz). Make 
+sure that duty ratio is maintained at 50%.
+
+fs_________| 100Khz | 80 KHz | 60 KHz | 40 KHz
+
+Vo Ripple V| 200 mV | 240 mV | 260 mV | 300 mV
+
+iC Amps ___| 0.31 A | 0.37 A | 0.37 A | 0.44 A
+
+2.4.3  Varying the Load <see below>
+
+Set the switching frequency to 100 kHz and duty ratio at 50%. 
+
+Set the load frequency RL = 10 Ω.
+
+Increase the load impedance and observe and make a copy of the output current waveform.
+
+Keep increasing the load impedance until the Buck Converter enters into discontinuous current mode operation.  Note down the average output current value when the converter starts entering discontinuous current mode of operation. 
+
+Io = Vo/R = 53.45 ohms 
+
 section 2.3: Verify PWM Signal
 ----------------------------------------------------------
 scope_12:
