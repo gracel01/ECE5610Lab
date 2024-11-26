@@ -40,7 +40,7 @@ fs_________| 100Khz | 80 KHz | 60 KHz | 40 KHz
 
 Vo Ripple V| 200 mV | 240 mV | 260 mV | 300 mV
 
-iC Amps __| 0.31 A  | 0.37 A | 0.37 A | 0.44 A
+iC Amps __| 0.31 A _ | 0.37 A _ | 0.37 A _ | 0.44 A
 
 2.4.3  Varying the Load <see below>
 
