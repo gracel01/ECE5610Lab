@@ -247,18 +247,24 @@ theoretically. I_o = I_L = V_0/R1 = 12 V/ 10 ohms = 1.2 Amps. Theoretical averag
 :-------------------------:|
 ![](Lab2Data/buck_converter_5.bmp) |   
 
-9. Calculate the inductance value of L, if ∆iL should be 1/3rd of the load current. Verify these computed 
+6. Calculate the inductance value of L, if ∆iL should be 1/3rd of the load current. Verify these computed 
 results with the results obtained from the simulation.
    L = (Vo(1-D) x Ts)/delta_iL = (12V x 0.5 x 50E-6s)/ 0.4A = 75E-5 F
    For the simulation:
    L = 300E-6 F
    as compared to results from the simulation:
    = (Vo(1-D) x Ts)/delta_iL = (12V x 0.5 x 50E-6s)/ 1.04642A = 287E-6 F 
-11. Change the output power in this circuit to one-half its original value. Measure the peak-peak ripple 
+
+7. Change the output power in this circuit to one-half its original value. Measure the peak-peak ripple 
 ∆iL and compare it with that in assignment 3. Comment on this comparison.
 
-To Change teh output power in this circuit to one-half its original value I reduce the resistance for the load to onw half its value of R - 10 ohm to R = 5 ohm.
+To Change the output power in this circuit to one-half its original value I reduce the resistance for the load to one half its original value of R = 10 ohm to R = 5 ohm.  The measured peak-to-peak ripple ∆iL = 0.890303 Amps.  In assignment 3 the peak-to-peak ∆iL = 0.868 Amps, which gives good comparison, 97.5%
+
+ Plot ∆iL |
+:-------------------------:|
+![](Lab2Data/buck_converter_7.bmp) |   
 13. Calculate Rcrit and verify whether the converter is operating on the boundary of CCM and DCM. 
 
 
 
+h
