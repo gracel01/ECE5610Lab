@@ -8,6 +8,22 @@ be operated under continuous conduction mode (CCM) and open loop conditions, whi
 
 Measurements and Waveforms
 
+2.4.1 Varying duty ratio 
+
+Set the duty ratio to 50%, switching frequency at 100 kHz and RL = 10 Ω. 
+
+Vary the duty ratio from 10% to 90% (in steps of 10%). 
+
+Duty Ratio| 10% | 20% | 30% | 40% | 50% | 60% | 70% | 80% | 90%
+
+Measure the average output voltage for the corresponding duty ratios. 
+
+Vo (V)____| 1.11| 2.56| 3.95| 5.23| 7.01| 8.4 | 9.84| 10.3| 12.93
+
+Calculate the theoretical average output voltage for the corresponding duty ratios. 
+
+Vo(V) calc| 1.50| 3.00| 4.50| 6.00| 7.50| 9.00| 10.5| 12.0| 13.0
+
 section 2.3: Verify PWM Signal
 ----------------------------------------------------------
 scope_12:
