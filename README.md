@@ -314,16 +314,16 @@ circuit for a much longer time (way more than 10 switching cycles).
 3. Plot iL and measure the peak-peak ripple ∆iL and compare it with the equation in the text book.  ∆iL = iLmax - iLmin = 1.72995 A - 0.683534 A = 1.04642 A.
 
  Plot iL |
-:-------------------------:|
+:-------------------------:| 
 ![](Lab2Data/buck_converter_3.bmp) |      
 
-4. Plot iC waveform. What is the average of iC = -121.5 mA. Compare the iC waveform with the ripple in iL.  Both the iC waveform and the ripple in iL are triangular; iL ~ iC.
+4. Plot iC waveform. What is the average of iC = -121.5 mA. Compare the iC waveform with the ripple in iL.  Both the iC waveform and the ripple in iL are triangular; ic handles the ac component of the output current so that when the trnaistor is on, the inductor current increases and the capacitor makes up the difference between the inducot current and the load current.  Versis when the tranistor is off and the inducotr current provides some of the load current while the capacitor provides the rest. [Copilot]
 
  Plot iC |
 :-------------------------:|
 ![](Lab2Data/buck_converter_4.bmp) |      
 
- Plot iC ~ iL |
+ Plot iC vs iL |
 :-------------------------:|
 ![](Lab2Data/buck_converter_6.bmp) | 
 
