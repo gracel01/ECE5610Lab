@@ -175,11 +175,7 @@ scope_45:
 
 Assignments:
 
-1. Plot the waveforms during the last 10 switching cycles for iL, vL and vo. You need to make sure the
-circuit has reached steady state. Depending on the operating conditions, you may need to simulate the
-circuit for a much longer time (way more than 10 switching cycles).
 
- iL, vL, vo |
 :-------------------------:|
 ![](3Data/iL_vL_vo.bmp) |
 
