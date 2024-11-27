@@ -186,4 +186,5 @@ circuit for a much longer time (way more than 10 switching cycles).
   Average value of vL |
  :-------------------------:|
 ![](4Data/boost_converter_Avg_vL.bmp) |
+
 4. Plot iL and measure the peak-peak ripple ΔiL and compare it with the equation in the text book.
