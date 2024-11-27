@@ -200,3 +200,12 @@ ripple in idiode. iL - ic waveform = ripple in idiode
  :-------------------------:|
 ![](4Data/boost_converter_ic_idiode.bmp) |
 
+5. Plot the input current waveform and calculate its average = -3.2367A. Compare that to the value obtained from
+the theoretical calculations; Iin = Vo x Io / Vin = 17.411 x 1.39 / 10 = 2.42A.
+
+  input current waveform  |
+ :-------------------------:|
+![](4Data/boost_converter_Iin.bmp) |
+
+
+
