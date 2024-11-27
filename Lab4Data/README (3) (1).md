@@ -181,9 +181,14 @@ circuit for a much longer time (way more than 10 switching cycles).
 :-------------------------:|
 ![](4Data/iL_vL_vo.bmp) |
 
-2. Plot the average value of vL = 
+2. Plot the average value of vL.
 
   Average value of vL |
  :-------------------------:|
 ![](4Data/boost_converter_Avg_vL.bmp) |
-4. Plot iL and measure the peak-peak ripple ΔiL and compare it with the equation in the text book.
+
+3. Plot iL and measure the peak-peak ripple ΔiL = 1.81 Aand compare it with the equation in the text book;: ΔiL = 1/L x Vin x (D x Ts) = 1/100E-6 x 10 x 9 x (0.5 x 1E5) = 0.5 A.  This is a 27.7% calculated:measure ratio. 
+
+  peak-peak ripple ΔiL |
+ :-------------------------:|
+![](4Data/boost_converter_deltaiL.bmp) |
