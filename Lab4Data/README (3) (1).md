@@ -167,7 +167,7 @@ scope_5:
 
  PWM Reference Signal of Power Pole Board / Varying the Switching Frequency / Load Resistance = 20 Ω -> Duty 50% @ 60kHz |
 :-------------------------:|
-![](4Data/scope_.bmp) |
+![](4Data/scope_5.bmp) |
 
 **Used recorded measured values of 50% duty from section 4.4.1 for calculations of 100kHz
 
