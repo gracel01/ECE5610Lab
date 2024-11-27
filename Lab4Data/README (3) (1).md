@@ -187,8 +187,16 @@ circuit for a much longer time (way more than 10 switching cycles).
  :-------------------------:|
 ![](4Data/boost_converter_Avg_vL.bmp) |
 
-3. Plot iL and measure the peak-peak ripple ΔiL = 1.81 Aand compare it with the equation in the text book;: ΔiL = 1/L x Vin x (D x Ts) = 1/100E-6 x 10 x 9 x (0.5 x 1E5) = 0.5 A.  This is a 27.7% calculated:measure ratio. 
+3. Plot iL and measure the peak-peak ripple ΔiL = 1.81 Aand compare it with the equation in the text book;: ΔiL = 1/L x Vin x (D x Ts) = 1/100E-6 x 10 x (0.5 x 1E5) = 0.5 A.  This is a 27.7% calculated:measure ratio. 
 
   peak-peak ripple ΔiL |
  :-------------------------:|
 ![](4Data/boost_converter_deltaiL.bmp) |
+
+4. Plot idiode and iC waveforms. What is the average value of iC? average value of iC = 1.2982A Compare this iC waveform with the
+ripple in idiode. iL - ic waveform = ripple in idiode
+
+  idiode and iC waveforms |
+ :-------------------------:|
+![](4Data/boost_converter_ic_idiode.bmp) |
+
