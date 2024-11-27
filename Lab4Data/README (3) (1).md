@@ -187,7 +187,7 @@ circuit for a much longer time (way more than 10 switching cycles).
  :-------------------------:|
 ![](4Data/boost_converter_Avg_vL.bmp) |
 
-3. Plot iL and measure the peak-peak ripple ΔiL = 1.81 Aand compare it with the equation in the text book;: ΔiL = 1/L x Vin x (D x Ts) = 1/100E-6 x 10 x (0.5 x 1E5) = 0.5 A.  This is a 27.7% calculated:measure ratio. 
+3. Plot iL and measure the peak-peak ripple ΔiL = 1.81 A and compare it with the equation in the text book;: ΔiL = 1/L x Vin x (D x Ts) = 1/100E-6 x 10 x (0.5 x 1E5) = 0.5 A.  This is a 27.7% calculated:measure ratio. 
 
   peak-peak ripple ΔiL |
  :-------------------------:|
@@ -207,5 +207,18 @@ the theoretical calculations; Iin = Vo x Io / Vin = 17.411 x 1.39 / 10 = 2.42A.
  :-------------------------:|
 ![](4Data/boost_converter_Iin.bmp) |
 
+6. Calculate the inductance value of L, if ΔiL = 1/3rd of the input current. Verify these computed results
+with the results obtained from the simulation.
+
+Calculate the inductance value of L, if ΔiL = 1/3rd of the input current: L = (Vin x D x Ts) / ΔiL ; ΔiL = 2.42A/3 = 0.808 A L = (10 x 0.5 x 1E-5)/ 0.808 = 61.9E-6 H vs the results obtained by the simulation: L = 910 x 0.5x 1E-50 / 1.81 = 27.6 E-6 H. The ratio is 44.7% The actual value is 100E-6 H.
+
+8. Change the output power in this circuit to one-half its original value. Measure the peak-peak ripple
+ΔiL and compare it with that in assignment 3. Comment on this comparison.
+
+To Change the output power in this circuit to one-half its original value I reduce the resistance for the load to one half its original value of R = 12.5 ohm to R = 6.25 ohm. The measured peak-to-peak ripple ∆iL = -5.3221 Amps. In assignment 3 the peak-to-peak ∆iL = 0.868 Amps, which gives poor comparison.
+
+10. Calculate Rcrit and verify whether the converter is operating on the boundary of CCM and DCM.
+
+R_crit = (2 x L x f_s)/(1-D) = (2 x 100E-6 x 100000)/0.5 = 40 ohm; The converter is below Rcrit, therefore it is operating on the boundary of DCM.
 
 
