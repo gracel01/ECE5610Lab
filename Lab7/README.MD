@@ -43,7 +43,7 @@ Disadvantages: higher switching losses (less efficient), electronmagnetic interf
 
  Zoomed in Waveform of closed-loop steady-state output voltage |
 :-------------------------:|
-![](6data/boost_closeloop_ss.bmp) |
+![](6data/boost_closeloop_ss2.bmp) |
 
  Zoomed in Waveform of open-looped steady-state output voltage |
 :-------------------------:|
