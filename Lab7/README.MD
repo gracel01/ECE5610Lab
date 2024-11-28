@@ -22,7 +22,7 @@ Compare the switching frequency of this converter with the one in Lab 4.  The sw
 
 What’s major difference between this diode and the one we used in Lab 4?  The diode we used in Lab4 is a D.  A D is a generic silicon diode model with forward voltage drop and reverse reocvery time.  The MBRS430 is a Schottky barrier rectifier diode with low forward voltage drop and fast switching speed.  The MRBRS430 is designed for high efficiency power applications [Copilot].
 
-4. (6 Points) Now replace the diode MBRS340 by 1N914, which is a normal silicon diode. Re-run the simulation and attach a zoomed-in waveform of steady-state voltage. Comment on the steady state voltage ripple. Change the diode back once you are done with this question.
+4. (6 Points) Now replace the diode MBRS340 by 1N914, which is a normal silicon diode. Re-run the simulation and attach a zoomed-in waveform of steady-state voltage. Comment on the steady state voltage ripple: A lower inductance increases output voltage ripple and this can effect the stability of the system.
 
  Zoomed in Waveform of steady-state voltage |
 :-------------------------:|
