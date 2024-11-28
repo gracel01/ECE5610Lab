@@ -50,3 +50,15 @@ Disadvantages: higher switching losses (less efficient), electronmagnetic interf
 ![](6data/boost_openloop_ss.bmp) |
 
 7.2 Now you need to replace the constant input voltage by a step voltage (from 16V to 19V, 4 steps).
+Once you are done with configuring the input voltage source. Run the simulation. Attach a plot of output voltage in your report.
+
+ Zoomed in Waveform of open-looped step input voltage -> output voltage |
+:-------------------------:|
+![](6data/boost_closeloop_step.bmp) |
+
+ Zoomed in Waveform of open-looped step input voltage -> output voltage |
+:-------------------------:|
+![](6data/boost_openloop_step.bmp) |
+
+7.3 Apply the same step voltage source to the open-loop converter. Attach a plot of the output voltage. Comment the differences between 7.2 and 7.3.
+7.4 Once you have done. Change the input voltage back to 17V in both schematics.
