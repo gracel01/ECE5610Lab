@@ -210,7 +210,7 @@ the theoretical calculations; Iin = Vo x Io / Vin = 17.411 x 1.39 / 10 = 2.42A.
 6. Calculate the inductance value of L, if ΔiL = 1/3rd of the input current. Verify these computed results
 with the results obtained from the simulation.
 
-Calculate the inductance value of L, if ΔiL = 1/3rd of the input current: L = (Vin x D x Ts) / ΔiL ; ΔiL = 2.42A/3 = 0.808 A L = (10 x 0.5 x 1E-5)/ 0.808 = 61.9E-6 H vs the results obtained by the simulation: L = 910 x 0.5x 1E-50 / 1.81 = 27.6 E-6 H. The ratio is 44.7% The actual value is 100E-6 H.
+Calculate the inductance value of L, if ΔiL = 1/3rd of the input current: L = (Vin x D x Ts) / ΔiL ; ΔiL = 2.42A/3 = 0.808 A L = (10 x 0.5 x 1E-5)/ 0.808 = 61.9E-6 H vs the results obtained by the simulation: L = 910 x 0.5x 1E-5 / 1.81 = 27.6 E-6 H. The ratio is 44.7% The actual value is 100E-6 H.
 
 8. Change the output power in this circuit to one-half its original value. Measure the peak-peak ripple
 ΔiL and compare it with that in assignment 3. Comment on this comparison.
