@@ -37,3 +37,16 @@ Advantages: smaller commponet size, better transient response, smaller output ri
 Disadvantages: higher switching losses (less efficient), electronmagnetic interference, heat management, component stress, more complex designs.  [Dr. Ardakani lecture and notes, chat.pdf]
 
 6. (5 Points) Summarize what you have learned from assignment 1 to 5.  I learned quite a bit about capacitors and inductors.  I learned that a capacitor can be used as a low pass filter to filter high switching frquencies.  I learned how the size of the inductor or inductance can impact performance and efficiency. Finally, I learned that Dc-Dc converters are essential components in power electronics to convert dc voltage from one level to another.
+
+7. (15 Points) In this assignment, you will apply a step input voltage and observe the change in output voltages of the closed-loop and open-loop converters. Open boost_closeloop.asc and boost_open.asc.
+7.1 Run both simulations, notice that the steady state output voltages of these two converters are almost the same under default conditions (see below).
+
+ Zoomed in Waveform of closed-loop steady-state output voltage |
+:-------------------------:|
+![](6data/boost_closeloop_ss.bmp) |
+
+ Zoomed in Waveform of open-looped steady-state output voltage |
+:-------------------------:|
+![](6data/boost_openloop_ss.bmp) |
+
+7.2 Now you need to replace the constant input voltage by a step voltage (from 16V to 19V, 4 steps).
