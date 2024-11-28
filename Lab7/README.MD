@@ -4,7 +4,9 @@ Lab-6: Feedback Control in Boost Converter
 
 Lab 6 Items:
 - PSpice Captures
- 
+
+ABSTRACT: The purpose of this lab is to observe closed-loop operation of a boost converter controlled by a current mode controller IC. In this lab we focus on 1) studying a realistic closed-loop boost converter and 2) compare its performance with an open-loop counterpart under various situations.  In the past simulations, both input voltage and load were fixed. In an actual DC-DC converter, not only the load but also the input voltage varies over time. In this simulation we vary the input voltage and load in closed- loop operations.  Next we apply a step load resistance and observe the change in output voltages of the closed-loop and open-loop converters and compare with open-loop operations,
+
 Boost Converter Analysis
 
 Measurements and Waveforms
