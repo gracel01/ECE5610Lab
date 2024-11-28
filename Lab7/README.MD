@@ -14,7 +14,7 @@ Compare the switching frequency of this converter with the one in Lab 4.  The sw
 
  PWM driving signal of MOSFET |
 :-------------------------:|
-![](Lab5Dara/boost_closeloop_Vg.bmp) |
+![](6data/boost_closeloop_Vg.bmp) |
 
 2. (6 Points) Compare the inductance value with the one in Lab 4. Make comments on the differences based on your observation of assignment 1.
 
