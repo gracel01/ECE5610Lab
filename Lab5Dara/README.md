@@ -21,7 +21,8 @@ scope_65:
 
  PWM Reference Signal of Power Pole Board -> Duty 10% @ 100kHz|
 :-------------------------:|
-![help](5Data/scope_65.bmp) |
+![help](5Dara/boost_closeloop_Vg
+.bmp) |
 
 scope_66:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 10% @ 100kHz
