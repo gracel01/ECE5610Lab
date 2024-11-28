@@ -26,7 +26,7 @@ What’s major difference between this diode and the one we used in Lab 4?  The 
 
  Zoomed in Waveform of steady-state voltage |
 :-------------------------:|
-![](Lab5Dara/boost_closeloop_ss.bmp) |
+![](6data/boost_closeloop_ss.bmp) |
 
 5. (3x2=6 Points) List the advantages and disadvantages of operating at higher frequency.
 
