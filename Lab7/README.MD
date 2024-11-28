@@ -28,6 +28,9 @@ What’s major difference between this diode and the one we used in Lab 4?  The 
 :-------------------------:|
 ![](6data/boost_closeloop_ss.bmp) |
 
-5. (3x2=6 Points) List the advantages and disadvantages of operating at higher frequency.
+5. (3x2=6 Points) List the advantages and disadvantages of operating at higher frequency.  
 
+Advantages: smaller commponet size, better transient response, smaller output ripple, higher efficency, better control (such as digital control).
+
+Disadvantages: higher switching losses (less efficient), electronmagnetic interference, heat management, component stress, more complex designs.  {Dr. Ardakani lecture and notes, chat.pdf]
 6. (5 Points) Summarize what you have learned from assignment 1 to 5.
