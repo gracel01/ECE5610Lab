@@ -56,9 +56,12 @@ Once you are done with configuring the input voltage source. Run the simulation.
 :-------------------------:|
 ![](6data/boost_closeloop_step.bmp) |
 
+7.3 Apply the same step voltage source to the open-loop converter. Attach a plot of the output voltage. 
+
  Zoomed in Waveform of open-looped step input voltage -> output voltage |
 :-------------------------:|
 ![](6data/boost_openloop_step.bmp) |
 
-7.3 Apply the same step voltage source to the open-loop converter. Attach a plot of the output voltage. Comment the differences between 7.2 and 7.3.
+Comment the differences between 7.2 and 7.3:
+
 7.4 Once you have done. Change the input voltage back to 17V in both schematics.
