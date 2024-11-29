@@ -68,11 +68,15 @@ Comment the differences between 7.2 and 7.3:  The differences between 7.2 and 7.
 
 8.1 Instead using a constant load of 10 ohm, you will use a step load from 10 ohm to 160 ohm with a step of 50 ohm.  Run the simulation. Measure the output voltage and the inductor current. Attach the plot. Observe that even when the inductor current become discontinuous, the output voltage still maintains almost unchanged. 
 
+ Zoomed in Waveform of open-looped step input reistance -> output voltage |
+:-------------------------:|
+![](6data/boost_closed_notsure.bmp) |
+
 8.2 Repeat the same measurement on open-loop converter. Attach a plot with output voltage and inductor current. 
 
- Zoomed in Waveform of open-looped step input voltage -> output voltage |
+ Zoomed in Waveform of open-looped step input reistance -> output voltage |
 :-------------------------:|
-![](6data/boost_open_step_r.bmp) |
+![](6data/boost_open_step_r2.bmp) |
 
 Compare with the result obtained in 8.1. You may find that under stepping load situation, the performance of open-loop converter is quite “acceptable” since the output voltage changes only about 1V. Aside from the fact that 1V change is not always acceptable, in the realistic circuit, the voltage deviation will be higher. Explain why. (Hint: Although the circuit looks quite “realistic”, it is actually not. Think about what is missing in the schematic.)
 
