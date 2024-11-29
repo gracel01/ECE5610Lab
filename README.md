@@ -3,8 +3,7 @@
 Lab 2 Items:
 - Waveform captures
   
-ABSTRACT- The characteristics of a simple buck converter are observed. The circuit will 
-be operated under continuous conduction mode (CCM) and open loop conditions, which means no feedback. We compare the theoretical results of a simple buck converter with the experimental results.  The simulation is used to observe switching waveforms in a near-ideal buck converter operating at a fixed duty cycle. Simulated results are compared to theoretical calculations and experimental results.
+ABSTRACT- The characteristics of a simple buck converter are observed. The circuit will be operated under continuous conduction mode (CCM) and open loop conditions, which means no feedback. We compare the theoretical results of a simple buck converter with the experimental results.  The simulation is used to observe switching waveforms in a near-ideal buck converter operating at a fixed duty cycle. Simulated results are compared to theoretical calculations and experimental results.
 
 Measurements and Waveforms
 
