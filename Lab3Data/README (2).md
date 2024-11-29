@@ -177,7 +177,7 @@ Assignments:
 
 
 :-------------------------:|
-![](3Data/iL_vL_vo.bmp) |
+![](3Data/MOSFET_switching_on.bmp) |
 
 
 
