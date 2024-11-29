@@ -64,4 +64,16 @@ Once you are done with configuring the input voltage source. Run the simulation.
 
 Comment the differences between 7.2 and 7.3:  The differences between 7.2 and 7.3 are output voltage regulation, transient response, output voltage ripple, and stability. Feedback in closed loop system continually adjusts and monitors the output in the voltage.  When a step change in input voltage occurs, the controller adjusts the duty cycle of the switching device.  This maintains the output voltage at the desired setpoint. As a result, the output voltage remains nrelatively stable.  In an open loop system, there is no feedback mechanism to monitor and adjust the output voltage. As such, When a step change occurs, the output voltage deviates a lot more from the desired value, as compared to the close-loop system. The response to changes is slower and less stable, leading to larger voltage fluctuations. In closed loop you have faster transient response vs open loop which has a slower transient respomse. Feedback control in closed system provides for less output ripple. Without feedback back the system cannot account for variations and the voltage output ripple is higher in open loop systems. The closed loop remains stable during varations in the step input voltage due to feedback mechanisms.  This is as compared to the open loop system, which has more variation in the output mechanism.
 
-7.4 Once you have done. Change the input voltage back to 17V in both schematics.
+8. (15 Points) In this assignment, you will apply a step load resistance and observe the change in output voltages of the closed-loop and open-loop converters.  
+
+8.1 Instead using a constant load of 10 ohm, you will use a step load from 10 ohm to 160 ohm with a step of 50 ohm.  Run the simulation. Measure the output voltage and the inductor current. Attach the plot. Observe that even when the inductor current become discontinuous, the output voltage still maintains almost unchanged. 
+
+8.2 Repeat the same measurement on open-loop converter. Attach a plot with output voltage and inductor current. 
+
+ Zoomed in Waveform of open-looped step input voltage -> output voltage |
+:-------------------------:|
+![](6data/boost_open_step_r.bmp) |
+
+Compare with the result obtained in 8.1. You may find that under stepping load situation, the performance of open-loop converter is quite “acceptable” since the output voltage changes only about 1V. Aside from the fact that 1V change is not always acceptable, in the realistic circuit, the voltage deviation will be higher. Explain why. (Hint: Although the circuit looks quite “realistic”, it is actually not. Think about what is missing in the schematic.)
+
+9. (10 Points) Use the techniques you learned from 8 and 9. Modify the simulation schematic such that the input voltage and load change simultaneously. You can improvise regarding the step values you want to use. But make sure the input voltage varies within the range of 16V- 20V. (Feedback control does not make it an almighty converter!) Do this only on the closed-loop converter. Attach a waveform of output voltage and inductor current. Also include the step values used to generate the plot. (Note: Increasing the input voltage while decreasing the load resistance (or vice versa) is a less undesirable situation than 7 and 8.)
