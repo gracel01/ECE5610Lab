@@ -68,7 +68,7 @@ Comment the differences between 7.2 and 7.3:  The differences between 7.2 and 7.
 
 8.1 Instead using a constant load of 10 ohm, you will use a step load from 10 ohm to 160 ohm with a step of 50 ohm.  Run the simulation. Measure the output voltage and the inductor current. Attach the plot. Observe that even when the inductor current become discontinuous, the output voltage still maintains almost unchanged. 
 
- Zoomed in Waveform of open-looped step input reistance -> output voltage |
+ Zoomed in Waveform of closed-looped step input reistance -> output voltage |
 :-------------------------:|
 ![](6data/boost_closed_notsure.bmp) |
 
