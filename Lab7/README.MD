@@ -60,7 +60,7 @@ Once you are done with configuring the input voltage source. Run the simulation.
 
  Zoomed in Waveform of open-looped step input voltage -> output voltage |
 :-------------------------:|
-![](6data/boost_openloop_step.bmp) |
+![](6data/boost_open_step.bmp) |
 
 Comment the differences between 7.2 and 7.3:
 
