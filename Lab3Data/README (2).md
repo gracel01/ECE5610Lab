@@ -175,10 +175,32 @@ scope_45:
 
 Assignments:
 
+3.6 Spice Simulation
 
+3.6.1 Open the file Power_pole_PSpice_MOSFET.sch. Take a moment to examine the circuit, and then
+perform the following measurements.
+
+Assignments:
+
+1, In the schematic shown above, the circuit consists of a MOSFET IRF640 and a diode MUR2020
+in the PSpice Library with Rs (Source resistance) =1 mΩ. Obtain the turn-ON switching
+characteristics as shown in Fig. below. Plot the drain-source voltage of M1, and the current
+through M1 to obtain the switching characteristics.
+
+ MOSFET turn-ON switching characteristics V_DS and I_D
 :-------------------------:|
 ![](3Data/MOSFET_switching_on.bmp) |
 
+2. Measure tc(ON ), tri and tfv in the turn-ON switching characteristics. tc(ON) = 28.056E-6 s; tri = 127.219 ns; tfv = 142.744 ns.
 
+3. Measure vGS(th) and vGS(Io). Compare these with the values obtained from the datasheet of
+IRF640. vGS(th)= 9.26 V as compared to the datasheet vGS(th) - 10V.  
 
+5. Estimate the average switching power loss during the turn-ON.
+
+6. Obtain the turn-off switching characteristics as shown in the figure above.
+
+7. Measure tc(OFF), trv and tfi in the turn-OFF switching characteristics.
+
+8. Calculate the average switching power loss during the turn-OFF.
 
