@@ -196,11 +196,12 @@ through M1 to obtain the switching characteristics.
 3. Measure vGS(th) and vGS(Io). Compare these with the values obtained from the datasheet of
 IRF640. vGS(th)= 2.067 V as compared to the datasheet vGS(th) = 1V (min). vGS(Io)= 2.199 V @ -2.0fA as compared to the datasheet vGS(Io) = 2V at 250µA [copilot].  
 
-5. Estimate the average switching power loss during the turn-ON.  I calculated the average switching power loss during the turn-ON to be P= f_sx((V_DSxI_Dx(t2on-t1on)+(V_DSxI_Dx(t2off-t1off)) = 0.377 + 0.812 = 1.19 W.
+5. Estimate the average switching power loss during the turn-ON.  I calculated the average switching power loss during the turn-ON to be P= f_sx((V_DSxI_Dx(t2on-t1on)) = 0.686 W.
 
-7. Obtain the turn-off switching characteristics as shown in the figure above.
+6. Obtain the turn-off switching characteristics as shown in the figure above.
 
-8. Measure tc(OFF), trv and tfi in the turn-OFF switching characteristics.
+7. Measure tc(OFF), trv and tfi in the turn-OFF switching characteristics. tc(OFF) = 1.183µs,trv = 1.757µs , tfi = 16ns.
+ 
+8. Calculate the average switching power loss during the turn-OFF.   I calculated the average switching power loss during the turn-OFF to be P= f_sx((V_DSxI_Dx(t3off-t4off)) = 0.770 W.
 
-9. Calculate the average switching power loss during the turn-OFF.
 
