@@ -194,7 +194,7 @@ through M1 to obtain the switching characteristics.
 2. Measure tc(ON ), tri and tfv in the turn-ON switching characteristics. tc(ON) = 28.056E-6 s; tri = 127.219 ns; tfv = 142.744 ns.
 
 3. Measure vGS(th) and vGS(Io). Compare these with the values obtained from the datasheet of
-IRF640. vGS(th)= 9.26 V as compared to the datasheet vGS(th) - 10V.  
+IRF640. vGS(th)= 9.26 V as compared to the datasheet vGS(th) = 10V. vGS(Io)= V as compared to the datasheet vGS(Io) = V.  
 
 5. Estimate the average switching power loss during the turn-ON.
 
