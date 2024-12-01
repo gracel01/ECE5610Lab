@@ -204,7 +204,7 @@ IRF640. vGS(th)= 2.067 V as compared to the datasheet vGS(th) = 1V (min). vGS(Io
 :-------------------------:|
 ![](3Data/MOSFET_switching_on_off.bmp) |
 
-7. Measure tc(OFF), trv and tfi in the turn-OFF switching characteristics. tc(OFF) = 934ns,trv = 103s , tfi = 5.44ns.
+7. Measure tc(OFF), trv and tfi in the turn-OFF switching characteristics. tc(OFF) = 934ns,trv = 103ns , tfi = 5.44ns.
  
 8. Calculate the average switching power loss during the turn-OFF.   I calculated the average switching power loss during the turn-OFF to be Psw​≈Average VDSxAverage ID​xtc​(ON)= 40.629E-6 W.
 
