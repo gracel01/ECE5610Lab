@@ -26,7 +26,7 @@ What’s major difference between this diode and the one we used in Lab 4?  The 
 
 4. (6 Points) Now replace the diode MBRS340 by 1N914, which is a normal silicon diode. Re-run the simulation and attach a zoomed-in waveform of steady-state voltage. Comment on the steady state voltage ripple: A lower inductance increases output voltage ripple and this can effect the stability of the system.
 
- Zoomed in Waveform of steady-state voltage |
+ Waveform of steady-state voltage |
 :-------------------------:|
 ![](6data/boost_closeloop_ss.bmp) |
 
@@ -41,24 +41,24 @@ Disadvantages: higher switching losses (less efficient), electronmagnetic interf
 7. (15 Points) In this assignment, you will apply a step input voltage and observe the change in output voltages of the closed-loop and open-loop converters. Open boost_closeloop.asc and boost_open.asc.
 7.1 Run both simulations, notice that the steady state output voltages of these two converters are almost the same under default conditions (see below).
 
- Zoomed in Waveform of closed-loop steady-state output voltage |
+ Waveform of closed-loop steady-state output voltage |
 :-------------------------:|
 ![](6data/boost_closeloop_ss_vo.bmp) |
 
- Zoomed in Waveform of open-looped steady-state output voltage |
+ Waveform of open-looped steady-state output voltage |
 :-------------------------:|
 ![](6data/boost_open_ss_vo.bmp) |
 
 7.2 Now you need to replace the constant input voltage by a step voltage (from 16V to 19V, 4 steps).
 Once you are done with configuring the input voltage source. Run the simulation. Attach a plot of output voltage in your report.
 
- Zoomed in Waveform of open-looped step input voltage -> output voltage |
+ Waveform of open-looped step input voltage -> output voltage |
 :-------------------------:|
 ![](6data/boost_closeloop_step.bmp) |
 
 7.3 Apply the same step voltage source to the open-loop converter. Attach a plot of the output voltage. 
 
- Zoomed in Waveform of open-looped step input voltage -> output voltage |
+ Waveform of open-looped step input voltage -> output voltage |
 :-------------------------:|
 ![](6data/boost_open_step.bmp) |
 
@@ -68,13 +68,13 @@ Comment the differences between 7.2 and 7.3:  The differences between 7.2 and 7.
 
 8.1 Instead using a constant load of 10 ohm, you will use a step load from 10 ohm to 160 ohm with a step of 50 ohm.  Run the simulation. Measure the output voltage and the inductor current. Attach the plot. Observe that even when the inductor current become discontinuous, the output voltage still maintains almost unchanged. 
 
- Zoomed in Waveform of closed-looped step input resistance -> output voltage |
+ Waveform of closed-looped step input resistance -> output voltage |
 :-------------------------:|
 ![](6data/boost_closeloop_step_vo.bmp) |
 
 8.2 Repeat the same measurement on open-loop converter. Attach a plot with output voltage and inductor current. 
 
- Zoomed in Waveform of open-looped step input resistance -> output voltage |
+ Waveform of open-looped step input resistance -> output voltage |
 :-------------------------:|
 ![](6data/boost_open_step_vo.bmp) |
 
