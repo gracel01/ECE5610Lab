@@ -202,7 +202,7 @@ IRF640. vGS(th)= 2.067 V as compared to the datasheet vGS(th) = 1V (min). vGS(Io
 
  MOSFET turn-OFF switching characteristics V_DS and I_D
 :-------------------------:|
-![](3Data/MOSFET_switching_off.bmp) |
+![](3Data/MOSFET_switching_on.bmp) |
 
 8. Measure tc(OFF), trv and tfi in the turn-OFF switching characteristics. tc(OFF) = 934ns,trv = 103s , tfi = 5.44ns.
  
