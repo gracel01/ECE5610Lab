@@ -70,7 +70,7 @@ Comment the differences between 7.2 and 7.3:  The differences between 7.2 and 7.
 
  Zoomed in Waveform of closed-looped step input resistance -> output voltage |
 :-------------------------:|
-![](6data/boost_closeloop_notsure.bmp) |
+![](6data/boost_closeloop_.bmp) |
 
 8.2 Repeat the same measurement on open-loop converter. Attach a plot with output voltage and inductor current. 
 
