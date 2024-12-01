@@ -206,7 +206,7 @@ IRF640. vGS(th)= 2.067 V as compared to the datasheet vGS(th) = 1V (min). vGS(Io
 
 8. Measure tc(OFF), trv and tfi in the turn-OFF switching characteristics. tc(OFF) = 934ns,trv = 103s , tfi = 5.44ns.
  
-9. Calculate the average switching power loss during the turn-OFF.   I calculated the average switching power loss during the turn-OFF to be Psw​≈Average VDSxAverage ID​xtc​(ON)= 43.4E-5 W.
+9. Calculate the average switching power loss during the turn-OFF.   I calculated the average switching power loss during the turn-OFF to be Psw​≈Average VDSxAverage ID​xtc​(ON)= 43.4E-6 W.
 
 3.6.2 Open the file Power_pole_Diode.sch. Take a moment to examine the circuit, and then perform the
 following measurements.
