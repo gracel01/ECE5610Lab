@@ -76,7 +76,7 @@ Comment the differences between 7.2 and 7.3:  The differences between 7.2 and 7.
 
  Waveform of open-looped step input resistance -> output voltage = 0V and I_L |
 :-------------------------:|
-![](6data/boost_open_step_vo.bmp) |
+![](6data/boost_open_step_vo3.bmp) |
 
 Compare with the result obtained in 8.1. You may find that under stepping load situation, the performance of open-loop converter is quite “acceptable” since the output voltage changes only about 1V. Aside from the fact that 1V change is not always acceptable, in the realistic circuit, the voltage deviation will be higher. Explain why. (Hint: Although the circuit looks quite “realistic”, it is actually not. Think about what is missing in the schematic.)
 
