@@ -1,5 +1,6 @@
-Laura Parke
-ECE 5610-002
+# ECE 5610-002 Lab4
+# Laura Parke
+
 --------------------------------------------------------
 Lab 4 Items:
 - Waveform Captures
