@@ -107,4 +107,4 @@ step (ms) | Ohms
 
  Waveform of open-looped step input voltage and resistance -> output voltage and I_L |
 :-------------------------:|
-![](6data/boost_open_step_vin_vo.bmp) |
+![](6data/boost_closeloop_step_vin_vo.bmp) |
