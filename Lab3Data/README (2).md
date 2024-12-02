@@ -213,7 +213,7 @@ Assignments:
 1. The schematic above has a diode 1N5822 Schottky diode. Obtain the turn-ON and turn-OFF switching
 characteristics of the diode similar to the way used for obtaining the MOSFET characteristics.
 
- MOSFET turn-OFF switching characteristic with V_DS and I_D 
+ MOSFET switching characteristics with V_DS and I_D 
 :-------------------------:|
 ![](3Data/MOSFET_switching_V_DS_I_D.bmp) |
 
