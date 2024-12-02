@@ -1,4 +1,5 @@
-# Laura Parke ECE 5610-002
+# ECE 5610-002 Lab 5
+# Laura Parke 
 ---------------------------------------------------------
 Lab-5: Buck-Boost Converter
 
