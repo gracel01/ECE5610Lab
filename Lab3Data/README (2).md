@@ -219,3 +219,10 @@ characteristics of the diode similar to the way used for obtaining the MOSFET ch
 
 2. Estimate the average switching power loss during turn-ON and turn-OFF switching
 characteristics of the diode similar to the way used for obtaining the MOSFET characteristics.
+
+3. Measure tc(ON) in the turn-ON switching characteristics. tc(ON) = 111.8ns
+4. Estimate the average switching power loss during the turn-ON.  I calculated the average switching power loss during the turn-ON to be Psw​≈Average VDS​xAverage IDxtc​(ON) = 4.99E-6W.
+
+5. Measure tc(OFF) in the turn-OFF switching characteristics. tc(OFF) = 31.2ns.
+ 
+6. Calculate the average switching power loss during the turn-OFF.   I calculated the average switching power loss during the turn-OFF to be Psw​≈Average VDSxAverage ID​xtc​(ON)= 1.36E-6W.
