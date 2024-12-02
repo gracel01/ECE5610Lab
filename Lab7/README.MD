@@ -1,4 +1,5 @@
-# Laura Parke ECE 5610-002
+# ECE 5610-002 Lab6
+# Laura Parke
 ---------------------------------------------------------
 Lab-6: Feedback Control in Boost Converter
 
