@@ -53,7 +53,7 @@ Disadvantages: higher switching losses (less efficient), electronmagnetic interf
 7.2 Now you need to replace the constant input voltage by a step voltage (from 16V to 19V, 4 steps).
 Once you are done with configuring the input voltage source. Run the simulation. Attach a plot of output voltage in your report.
 
- Waveform of open-looped step input voltage -> output voltage |
+ Waveform of close-looped step input voltage -> output voltage |
 :-------------------------:|
 ![](6data/boost_closeloop_step_vo4.bmp) |
 
