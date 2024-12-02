@@ -202,7 +202,7 @@ IRF640. vGS(th)= 2.067 V as compared to the datasheet vGS(th) = 1V (min). vGS(Io
 
  MOSFET turn-OFF switching characteristics V_DS and I_D
 :-------------------------:|
-![](3Data/MOSFET_switching_on_of.bmp) |
+![](3Data/MOSFET_switching_on_off.bmp) |
 
 7. Measure tc(OFF), trv and tfi in the turn-OFF switching characteristics. tc(OFF) = 934ns,trv = 103ns , tfi = 5.44ns.
  
@@ -215,7 +215,7 @@ characteristics of the diode similar to the way used for obtaining the MOSFET ch
 
  MOSFET switching characteristics with V_DS and I_D 
 :-------------------------:|
-![](3Data/MOSFET_switching_V_DS_I_D1.bmp) |
+![](3Data/MOSFET_switching_s.bmp) |
 
 2. Estimate the average switching power loss during turn-ON and turn-OFF switching
 characteristics of the diode similar to the way used for obtaining the MOSFET characteristics.
