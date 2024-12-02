@@ -61,7 +61,7 @@ Once you are done with configuring the input voltage source. Run the simulation.
 
  Waveform of open-looped step input voltage -> output voltage |
 :-------------------------:|
-![](6data/boost_open_step.bmp) |
+![](6data/boost_open_step_vo4.bmp) |
 
 Comment the differences between 7.2 and 7.3:  The differences between 7.2 and 7.3 are output voltage regulation, transient response, output voltage ripple, and stability. Feedback in closed loop system continually adjusts and monitors the output in the voltage.  When a step change in input voltage occurs, the controller adjusts the duty cycle of the switching device.  This maintains the output voltage at the desired setpoint. As a result, the output voltage remains nrelatively stable.  In an open loop system, there is no feedback mechanism to monitor and adjust the output voltage. As such, when a step change occurs, the output voltage deviates a lot more from the desired value, as compared to the close-loop system. The response to changes is slower and less stable, leading to larger voltage fluctuations. In closed loop you have faster transient response vs open loop which has a slower transient respomse. Feedback control in closed system provides for less output ripple. Without feedback back the system cannot account for variations and the voltage output ripple is higher in open loop systems. The closed loop remains stable during varations in the step input voltage due to feedback mechanisms.  This is as compared to the open loop system, which has more variation in the output mechanism. [textbook, chat.pdf]
 
