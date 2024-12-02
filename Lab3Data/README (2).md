@@ -217,5 +217,5 @@ characteristics of the diode similar to the way used for obtaining the MOSFET ch
 :-------------------------:|
 ![](3Data/MOSFET_switching_V_DS_I_D1.bmp) |
 
-3. Estimate the average switching power loss during turn-ON and turn-OFF switching
+2. Estimate the average switching power loss during turn-ON and turn-OFF switching
 characteristics of the diode similar to the way used for obtaining the MOSFET characteristics.
