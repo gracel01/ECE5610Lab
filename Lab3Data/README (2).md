@@ -210,10 +210,10 @@ IRF640. vGS(th)= 2.067 V as compared to the datasheet vGS(th) = 1V (min). vGS(Io
 
 3.6.2 
 Assignments:
-1. The schematic above has a diode MUR2020. Obtain the turn-ON and turn-OFF switching
+1. The schematic above has a diode 1N5822 Schottky diode. Obtain the turn-ON and turn-OFF switching
 characteristics of the diode similar to the way used for obtaining the MOSFET characteristics.
 
- MOSFET turn-OFF switching characteristics with 1N5822 Schottky diode with V_DS and I_D 
+ MOSFET turn-OFF switching characteristic with V_DS and I_D 
 :-------------------------:|
 ![](3Data/MOSFET_switching_V_DS_I_D.bmp) |
 
