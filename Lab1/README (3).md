@@ -1,4 +1,5 @@
-# Laura Parke ECE 5610-002
+# ECE 5610-002 Lab5
+# Laura Parke
 ---------------------------------------------------------
 Lab-1: Pulse-Wdith Modulation and Filter Characteristics
 
