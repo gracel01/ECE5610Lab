@@ -215,7 +215,7 @@ characteristics of the diode similar to the way used for obtaining the MOSFET ch
 
  MOSFET turn-OFF switching characteristics with 1N5822 Schottky diode with V_DS and I_D 
 :-------------------------:|
-![](3Data/MOSFET_switchingV_DS_I_D.bmp) |
+![](3Data/MOSFET_switching_V_DS_I_D.bmp) |
 
 3. Estimate the average switching power loss during turn-ON and turn-OFF switching
 characteristics of the diode similar to the way used for obtaining the MOSFET characteristics.
