@@ -80,6 +80,31 @@ Comment the differences between 7.2 and 7.3:  The differences between 7.2 and 7.
 
 Compare with the result obtained in 8.1. You may find that under stepping load situation, the performance of open-loop converter is quite “acceptable” since the output voltage changes only about 1V. Aside from the fact that 1V change is not always acceptable, in the realistic circuit, the voltage deviation will be higher. Explain why. (Hint: Although the circuit looks quite “realistic”, it is actually not. Think about what is missing in the schematic.)  
 
-In a realistic circuit there are the following; Component variations with tolerances that deviate from the nominal value.  Dynamic response limitations unding changing conditions can result in larger voltage deviations. Nonideal components.  Noise and disturbances.  In an open system lack of feedback mechanism to adjust changes in voltages in response to the changes in load. [chat.pdf]
+In a realistic circuit there are the following: Component variations with tolerances that deviate from the nominal value.  Dynamic response limitations unding changing conditions can result in larger voltage deviations. Nonideal components.  Noise and disturbances.  In an open system lack of feedback mechanism to adjust changes in voltages in response to the changes in load. [chat.pdf]
 
 9. (10 Points) Use the techniques you learned from 8 and 9. Modify the simulation schematic such that the input voltage and load change simultaneously. You can improvise regarding the step values you want to use. But make sure the input voltage varies within the range of 16V- 20V. (Feedback control does not make it an almighty converter!) Do this only on the closed-loop converter. Attach a waveform of output voltage and inductor current. Also include the step values used to generate the plot. (Note: Increasing the input voltage while decreasing the load resistance (or vice versa) is a less undesirable situation than 7 and 8.)
+
+Step values I used to generate the Plot below:
+Vin:
+step (ms) | Volts (v)
+2         | 16
+2.01      | 17
+4         | 17
+4.01      | 18
+6         | 18
+6.01      | 20
+8         | 20
+
+R = V(var):
+step (ms) | Ohms 
+2         | 10
+2.01      | 60
+4         | 60
+4.01      | 110
+6         | 110
+6.01      | 160
+8         | 160
+
+ Waveform of open-looped step input voltage and resistance -> output voltage and I_L |
+:-------------------------:|
+![](6data/boost_open_step_vin_vo.bmp) |
